@@ -1,1 +1,50 @@
-site_name: Wiki Live de Python
+# Informações gerais
+site_name: Wiki da Live de Python!
+site_url: https://wiki.dunossauro.live/
+site_author: Dunossauro (Eduardo Mendes)
+site_description: >-
+  Live de python é um projeto criado por @dunossauro para difundir o conhecimento na linguagem Python de maneira aberta e gratuita.
+  Esse projeto é mantido por vonluntários em uma campanha de financiamento coletivo.
+
+# Repositório
+repo_url: https://github.com/dunossauro/live-de-python/
+repo_name: dunossauro/live-de-python
+
+# Configurações
+theme:
+  name: material
+  language: pt-BR
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Escuro (dark mode)
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Claro (light mode)
+
+  favicon: assets/images/favicon.png
+
+  logo: assets/images/logo.svg
+
+  icon:
+    repo: fontawesome/brands/github
+
+# Rodapé
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/livepython
+      name: Telegram da Live de Python
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/dunossauro
+      name: Youtube do Dunossauro
+    - icon: fontawesome/brands/twitch
+      link: https://www.twitch.tv/dunossauro
+      name: Twitch do Dunossauro
