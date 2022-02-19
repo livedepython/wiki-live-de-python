@@ -2,11 +2,12 @@
 name = "wiki-live-de-python"
 version = "0.1.0"
 description = ""
-authors = ["dunossauro <mendesxeduardo@gmail.com>"]
+authors = ["dunossauro <mendesxeduardo@gmail.com>", "andre rocha <rocha.matcomp@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 mkdocs = "^1.2.3"
+mkdocs-material = "^8.2.1"
 
 [tool.poetry.dev-dependencies]
 
