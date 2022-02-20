@@ -1,4 +1,4 @@
-# Wiki da Live de Python
+# Live de Python
 
 Live de python é um projeto criado por [@dunossauro](https://linktr.ee/dunossauro) para difundir o conhecimento na linguagem Python de maneira aberta e gratuita!
 
