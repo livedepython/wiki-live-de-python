@@ -50,6 +50,16 @@ Mais informações sobre o [arquivo de inicialização](https://www.gnu.org/soft
 
 O que você se sentir mais confortável ou te agradar mais. Nenhum é melhor, nem pior, experimente e veja qual atende o que você precisa nesse momento!
 
+
+## Como faz para o shell ficar colorido?
+
+Para o shell ficar colorido e mostrar as informações do ambiente virtual e do git vai depender do shell utilizado.
+
+- bash: [Bash-it](https://github.com/Bash-it/bash-it) que inclui várias funcionalidades extras além de deixar colorido.
+- fish: [fish - the friendly interactive shell](https://github.com/fish-shell/fish-shell) o próprio shell já vem com várias funcionalidades por padrão, colorido e metadados são algumas delas.
+- zsh: [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) para deixar o Z shell mais interessante.
+
+
 ## Como posso ajudar a financiar o projeto?
 
 Esse projeto é mantido por vonluntários e voluntárias em uma campanha de financiamento coletivo:
