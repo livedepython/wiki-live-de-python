@@ -80,6 +80,24 @@ Para o shell ficar colorido e mostrar as informações do ambiente virtual e do 
 - fish: [fish - the friendly interactive shell](https://github.com/fish-shell/fish-shell) o próprio shell já vem com várias funcionalidades por padrão, colorido e metadados são algumas delas.
 - zsh: [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) para deixar o Z shell mais interessante.
 
+## Orientação a objetos em Python?
+
+Existe uma *playlist* de lives sobre [orientação a objetos em python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3L_L6ahsBVA_SzuGtKre3OK).
+
+E outra *playlist* de lives sobre [Padrões de projeto](https://www.youtube.com/watch?v=hVOP_XR9gEw&list=PLOQgLBuj2-3IPHFlBmqhtbM4vLJg9tob4). Com a turma do Fausto:
+
+![Fausto](assets/images/fausto.svg)
+
+
+[@cassiobotaro](https://cassiobotaro.dev/) fez um material bem legal sobre Programação Orientada a Objetos com Python [POOP 💩](https://github.com/cassiobotaro/poop)
+
+E fez dois vídeos no canal do [@rg3915 (Regis do Python)](https://github.com/rg3915):
+
+- [Programação Orientada a Objetos com Python com Cássio Botaro](https://youtu.be/szS_qR_y-jc)
+- [Programação Orientada a Objetos com Python parte 2 com Cássio Botaro](https://youtu.be/Gk2Ux8IcYx0)
+
+> Não escreva classes simplemente para escrever classes! Veja esse vídeo: [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
+
 
 ## Como posso ajudar a financiar o projeto?
 
