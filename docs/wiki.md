@@ -21,6 +21,27 @@ Veja algumas sugestões de como fazer perguntas nessa issue:
 
 Busque por lives no [Youtube do Dunossauro](https://www.youtube.com/dunossauro), já existem várias lives para grande parte das perguntas.
 
+## Podemos responder qualquer dúvida?
+
+**Com gentileza**, todos e todas podem contribuir!
+
+### Dúvidas como uma ferramenta de **aprendizado coletivo**!
+
+- Quando alguém torna pública uma dúvida, essa pessoa **aprender a elaborar seus pensamentos** dentro de um contexto e constrói exemplos.
+
+- As pessoas que recebem essa dúvida trazem suas experiências e outros contextos para pensar soluções.
+
+- Mesmo pessoas que **não sabem solucionar** o problema, podem se sentir instigadas à investigar e esse é um **belo processo de aprendizado!**
+
+- A pessoa que colocou a dúvida é questionada sobre várias questões a respeito do contexto e do problema em si. Com isso é **deslocada de uma região de conforto pra uma região de análise**.
+
+- Muitas vezes a dúvida já vem em cima uma solução, contudo para o contexto geral podem existir outras soluções mais simples. E com esse vai e vem das discussões surgem essas soluções mais simples e elegantes, com boas práticas e mais aderentes à linguagem, ao framework, à comunidade, etc
+
+Portanto ao publicar um dúvida damos uma bela oportunidade de aprendizado para outras pessoas além de nós!
+
+E por isso é importante **interagir com respeito e gentiliza**. Entender que sua dúvida também geram outras dúvidas. Quando alguém ajuda não é simplesmente para chegar em uma solução para o seu problema e sim para poder aprender coletivamente!
+
+> Compartilhar dúvidas e soluções encontradas são fundamentais para uma **comunidade de aprendizado!**
 
 ## Os código e os slides das lives ficam disponíveis?
 
