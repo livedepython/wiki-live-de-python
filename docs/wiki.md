@@ -7,6 +7,10 @@ As lives acontecem todas as segundas feiras às 22:00 horas em nosso canal no [Y
 ## Dicas para aprender python?
 [Dicas para aprender Python - Live de Python #190](https://youtu.be/HSotf1Amess).
 
+## Existe uma comunidade local na minha região?
+
+Conheça os grupos de usuários de Python espalhados pelo Brasil.
+[Comunidades locais de Python](https://python.org.br/comunidades-locais/)
 
 ## Como sugerir um tema para as lives?
 Abra uma [issue no GitHub](https://github.com/dunossauro/live-de-python/issues).
