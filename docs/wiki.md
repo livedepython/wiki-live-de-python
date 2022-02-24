@@ -83,6 +83,7 @@ Para o shell ficar colorido e mostrar as informações do ambiente virtual e do 
 - bash: [Bash-it](https://github.com/Bash-it/bash-it) que inclui várias funcionalidades extras além de deixar colorido.
 - fish: [fish - the friendly interactive shell](https://github.com/fish-shell/fish-shell) o próprio shell já vem com várias funcionalidades por padrão, colorido e metadados são algumas delas.
 - zsh: [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) para deixar o Z shell mais interessante.
+- xonsh: [Xonsh](https://xon.sh/) que combina commandos de Shell com Python e vice-versa. Inclusive tem live no canal: [Conhecendo xonsh com @dunossauro](https://www.youtube.com/watch?v=thxOAuy17sw). Mas como fala esse nome? "Igual concha só que sem o a, conch" @dunossauro.
 
 ## Orientação a objetos em Python?
 
