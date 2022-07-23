@@ -1,26 +1,23 @@
 # Live de Python
+Live de python é um projeto criado por [@dunossauro](https://linktr.ee/dunossauro) e mantido por vonluntários e voluntárias em uma campanha de [financiamento coletivo](financiamento_coletivo.md) para difundir o conhecimento na linguagem Python de maneira **aberta e gratuita**!
 
-Live de python é um projeto criado por [@dunossauro](https://linktr.ee/dunossauro) para difundir o conhecimento na linguagem Python de maneira aberta e gratuita!
+## Quando acontecem as lives?
+As lives acontecem todas as segundas feiras às 22:00 horas em nosso canal no [youtube](https://www.youtube.com/dunossauro).
 
-## As lives acontecem todas as segundas feiras às 22:00 horas em nosso canal no [youtube](https://www.youtube.com/dunossauro).
+> Todos os vídeos ficam gravado no youtube sob a licença [Creative Commons](https://creativecommons.org/choose/?lang=pt_BR), ou seja, podemos utlizar como quisermos, é livre!
 
 
-Esse projeto é mantido por vonluntários e voluntárias em uma campanha de financiamento coletivo:
+## Chegou agora e quer dicas?
+[Dicas para aprender Python - Live de Python #190](https://youtu.be/HSotf1Amess).
 
-### Financiamento recorrente
+## Como faço para tirar dúvidas?
+A comunidade da Live de Python se concentra no [Telegram da Live de Python](https://t.me/livepython) compartilhe suas dúvidas e aprendizados!
 
-> [Apoia.se](https://apoia.se/livedepython): Financiamento recorrente que usamos a mais tempo, 13% do valor fica com a plataforma;
+Veja algumas sugestões de como fazer perguntas nessa issue:
+[Live de como fazer perguntas #201](https://github.com/dunossauro/live-de-python/issues/201).
 
-> [PicPay](https://app.picpay.com/user/dunossauro): Financiamento recorrente que estamos valorizando recetemente, 2% do valor fica com a plataforma;
+## Como posso ajudar o projeto a continuar?
+Participe do [financionamento coletivo](financiamento_coletivo.md).
 
-> [Patreon](http://patreon.com/dunossauro): Financiamento recorrente para pessoas fora do Brasil;
-
-Financiamento **recorrente** é a palavra que usamos para quando você deseja doar mensamelte umna quantia fixa.
-
-Por exemplo, você pode doar 5 reais todos os meses, isso garante que o projeto continue vivo e ativo por mais tempo. Assim, tenho o planejamento financeiro.
-
-### Opções não recorrentes
-
-> [PicPay](http://picpay.me/livedepython): Aqui você pode doar o valor que desejar uma única vez.
-
-> PIX - pix.dunossauro@gmail.com: Caso você tenha interesse em fazer uma transferência via pix.
+## Será que tem live de ... ?
+Já existem várias *lives* para grande parte das perguntas, busque mais informações em [Lives de Python](lives.md).
