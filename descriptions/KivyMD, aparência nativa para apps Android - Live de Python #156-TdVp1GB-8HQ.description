@@ -1,0 +1,54 @@
+Você já se pegou perguntando o motivo de seus apps feitos com kivy nunca terem a aparência de um app nativo no android? Hoje vamos conhecer o kivymd uma biblioteca de widgets baseada em Material Design.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-------------------
+
+Código:https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links sobre a live:
+
+
+Live anterior sobre Kivy: https://youtu.be/5ApbLrcUtlE
+
+Documentações oficiais:
+Documentação sobre KV lang: https://kivy.org/doc/stable/guide/lang.html
+Documentação oficial do Kivy: https://kivy.org/doc/stable/
+Documentação oficial do kivyMD: https://kivymd.readthedocs.io/en/latest/
+Site oficial do material design: https://material.io/components
+
+Sobre componentes:
+Componentes do MD: https://material.io/components
+Componentes no kivyMD: https://kivymd.readthedocs.io/en/latest/components/
+
+Temas:
+Temas no MD: https://material.io/design/color/the-color-system.html#color-usage-and-palettes
+Temas no kivyMD: https://kivymd.readthedocs.io/en/latest/themes/
+
+
+Comportamento:
+Comportamento no kivyMD: https://kivymd.readthedocs.io/en/latest/behaviors/
+
+Build (compilação):
+Build para android e iOS: https://buildozer.readthedocs.io/en/latest/
+Build para Windows e OSX: https://pyinstaller.readthedocs.io/en/stable/index.html
+
+
+Recursos extras:
+Acesso a componentes do android (Plyer): https://github.com/kivy/plyer
+Plugin para alertas bonitos (SweetAlert): https://github.com/kivymd-extensions/sweetalert
+Esqueledos de projetos do kivyMD(project-creator): https://github.com/Kulothungan16/KivyMD-Project-Creator
+Icones (Material icons): https://materialdesignicons.com/
+
+
+------------------
+
+
+#LiveDePython #kivyMD #Kivy

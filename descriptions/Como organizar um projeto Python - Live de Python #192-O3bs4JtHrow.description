@@ -1,0 +1,44 @@
+Como organizar um projeto python? Quais ferramentas escolher? Qual estrutura de pastas devo usar? Como formatar meu código? O que fazer quando as coisas dão errado? Como estruturar minha documentação?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links citados durante a live
+
+- Post do André: https://blog.pronus.io/posts/python/como-comecar-um-projeto-python-perfeito/
+- Bibliotecas que olhamos a estrutura
+  - HTTPX: https://github.com/encode/httpx
+  - FastAPI: https://github.com/tiangolo/fastapi
+  - Poetry: https://github.com/python-poetry/poetry
+  - Numpy: https://github.com/numpy/numpy
+  - Tigre: https://github.com/dunossauro/tigre
+- pyenv: https://github.com/pyenv/pyenv
+- Live de ambientes virtuais (191): https://youtu.be/naGF7EIUFp0
+- Live de Poetry (179): https://youtu.be/ZOSWdktsKf0
+- gitignore: http://gitignore.io
+- git fichas: https://gitfichas.com/
+- Live de Pytest (167): https://youtu.be/MjQCvJmc31A
+- Live de unittest (75): https://youtu.be/Sr9lUR1COpU
+- Live de Behave (10): https://youtu.be/ReELqf9B86g
+- Live de MkDocs (189): https://youtu.be/GW6nAJ1NHUQ
+- Live complexidade de código (38): https://youtu.be/qG-F5tordqc
+- Live de padronização de código (39): https://youtu.be/bqxXWfCrUXs
+- Live sobre segurança de pacotes (163): https://youtu.be/cEkA9PH2oEk
+- Live sobre GNU Make (184): https://youtu.be/Bb_TvqoUxX4
+- Live sobre Github Actions (170): https://youtu.be/L1f6N6NcgPw
+
+
+-------------------

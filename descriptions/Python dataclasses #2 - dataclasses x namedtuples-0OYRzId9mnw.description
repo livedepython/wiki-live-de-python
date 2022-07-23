@@ -1,0 +1,7 @@
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+A ideia desse vídeo é fazer uma comparação básica entre collections.namedtuple, typing.NamedTuple e dataclasses
+
+
+Código: https://github.com/dunossauro/dataclasses-examples

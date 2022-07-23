@@ -1,0 +1,31 @@
+Chegou a hora de conversarmos sobre a feature mais esperada da versão 3.10 do Python. O Pattern Matching. Um alternativa sofisticada aos ifs/dicionários e ao switch case das linguagens imperativas.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Links para consultar depois ou citados na live:
+
+
+https://www.python.org/dev/peps/pep-0619/
+https://www.python.org/dev/peps/pep-0634/
+https://www.python.org/dev/peps/pep-0635/
+https://www.python.org/dev/peps/pep-0636/
+https://github.com/gvanrossum/patma
+https://docs.python.org/3.10/whatsnew/3.10.html#pep-634-structural-pattern-matching
+https://docs.python.org/3.10/reference/datamodel.html#customizing-positional-arguments-in-class-pattern-matching
+https://mathspp.com/blog/pydonts/structural-pattern-matching-tutorial
+https://docs.python.org/3.10/reference/grammar.html
+
+#LiveDePython #PatternMatching

@@ -1,0 +1,34 @@
+Bora colocar nossa primeira aplicação em produção com o Heroku? Heroku é uma plataforma PaaS que permite que nós façamos nossa aplicação python rodar em produção
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Links citados durante a live:
+
+- Live de Python WSGI: https://www.youtube.com/watch?v=J354T4gth0s
+- Live de Python Dash: https://www.youtube.com/watch?v=fKgPXUUsg1M
+- Live de Python SQLAlchemy-ORM: https://youtu.be/UgaybOYMKS0
+
+- Buildpack python: https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python
+- Buildpack Poetry: https://github.com/moneymeets/python-poetry-buildpack
+- Rodando localmente: https://devcenter.heroku.com/articles/heroku-local
+- Postgres CLI: https://devcenter.heroku.com/articles/heroku-postgresql#using-the-cli
+- Postgres URL + Flask: https://stackoverflow.com/questions/62688256/sqlalchemy-exc-nosuchmoduleerror-cant-load-plugin-sqlalchemy-dialectspostgre
+- Terminal CSS: https://terminalcss.xyz/
+- Build para Fast-API: https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/
+- Flask + Dash: https://blog.finxter.com/dash-flask/
+- Flask + SQLAlchemy: https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+----------------
+#LiveDePython #Heroku #Web
