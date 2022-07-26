@@ -1,0 +1,12 @@
+Nesse episódio da Minissérie Pythonica de funções vamos conversar sobre funções parciais e como isso pode ajudar a simplificar a chamada de nossas funções usando o módulo functools.
+
+Funções parciais em python ou partial funcions são recursos que permitem simplificar o numero de argumentos de uma função na hora em que ela for chamada.
+
+----------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+
+----------------------------------
+#minisseriedefuncoes #pythonFuncional #python3
