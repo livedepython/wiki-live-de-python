@@ -7,8 +7,8 @@ site_description: >-
   Esse projeto é mantido por vonluntários em uma campanha de financiamento coletivo.
 
 # Repositório
-repo_url: https://github.com/dunossauro/live-de-python/
-repo_name: dunossauro/live-de-python
+repo_url: https://github.com/livedepython/wiki-live-de-python.git
+repo_name: livedepython/wiki-live-de-python
 
 # Configurações
 theme:
@@ -39,6 +39,8 @@ theme:
 # Rodapé
 extra:
   social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dunossauro/live-de-python/
     - icon: fontawesome/brands/telegram
       link: https://t.me/livepython
       name: Telegram da Live de Python
