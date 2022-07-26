@@ -128,8 +128,18 @@ Também vamos ver como ela é uma alternativa a diversas bibliotecas do python. 
 ## [Live de Python #198](https://youtu.be/PGAOqAWuwC0)
 Como criar logs em Python - [Logging, Loguru, Sentry].
 
+Na live de hoje vamos coversar sobre como estruturar logs em python. Quais ferramentas usar. Vamos entender a estrutura da biblioteca padrão logging, dos handlers, formaters e filters.
+
+Também vamos ver o Loguru e sua forma de fazer as coisas finalizando com os logs rodando no sentry.
+
 ## [Live de Python #197](https://youtu.be/yffiyHEiUvo)
 Como debugar código Python.
+
+Na live de hoje vamos bater um papo sobre como debugar código python na hora em que problemas aparecem. Vamos falar sobre o debuger nativo (pdb), e sobre algumas alternativas como ipdb, rpd, web_pdb.
+
+Como fazer debug remoto? Como debugar no iptyhon? Tem um jeito de debugar dentro de um container docker?
+
+Hoje vamos conversar sobre isso e muito mais.
 
 ## [Live de Python #196](https://youtu.be/K6YT2y38Zqc)
 Criando API's robustas - Com Cássio Botaro.
