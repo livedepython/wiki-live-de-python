@@ -1,8 +1,0 @@
-O canal é mantido por uma iniciativa de financiamento coletivo:
-https://apoia.se/livedepython
-
-Vamos entender como as dataclasses se comportam?
-
-Nessa primeira parte vamos simplesmente comparar o comportamento simples de uma dataclass com uma classe normal.
-
-Código: https://github.com/dunossauro/dataclasses-examples

@@ -1,8 +1,0 @@
-Ainda usando selenium para controlar o browser e navegar nas páginas, vamos usar o Beautifulsoup para raspar as páginas e encontrar os conteúdos que desejamos fazer web scraping de maneira mais simples.
-
-
--------------------
-
-Código: https://github.com/dunossauro/live-de-python
-Telegram do live: https://t.me/livepython
-Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
