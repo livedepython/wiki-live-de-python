@@ -8,6 +8,7 @@ authors = ["dunossauro <mendesxeduardo@gmail.com>", "andre rocha <rocha.matcomp@
 python = "^3.10"
 mkdocs = "^1.2.3"
 mkdocs-material = "^8.2.1"
+mkdocs-exclude = "^1.0.2"
 
 [tool.poetry.dev-dependencies]
 

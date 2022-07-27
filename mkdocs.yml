@@ -50,3 +50,9 @@ extra:
     - icon: fontawesome/brands/twitch
       link: https://www.twitch.tv/dunossauro
       name: Twitch do Dunossauro
+
+# Plugins
+plugins:
+  - exclude:
+      glob:
+        - descriptions/*
