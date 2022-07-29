@@ -21,10 +21,14 @@ theme:
 
   palette:
     - scheme: slate
+      primary: deep purple
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Escuro (dark mode)
     - scheme: default
+      primary: deep purple
+      accent: pink
       toggle:
         icon: material/weather-night
         name: Claro (light mode)
