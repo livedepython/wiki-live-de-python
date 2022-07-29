@@ -798,6 +798,7 @@ Selenium / Web scraping  #1.
 Expressões regulares.
 
 ## [Rapidinha pythonica #1 - Desafio com compreensão de listas](https://youtu.be/zjgYTrn9YF4)
+
 ## [Live de Python #18](https://youtu.be/Axbiz2q2iPA)
 Compreesão de containers e geradores.
 
@@ -822,10 +823,10 @@ Criando uma API rest com bottle + SQLAlachemy core.
 ## [Live de Python #11](https://youtu.be/rBIksyGY4_E)
 Abstraindo seu banco de dados com SQLAlchemy (core).
 
-## [Live de Python #10](https://youtu.be/9EvoggLUp1E)
+## [Live de Python #10 - 2](https://youtu.be/9EvoggLUp1E)
 Testando comportamento com Python + Behave Parte 2.
 
-## [Live de Python #10](https://youtu.be/ReELqf9B86g)
+## [Live de Python #10 - 1](https://youtu.be/ReELqf9B86g)
 Testando comportamento com Python + Behave Parte 1.
 
 ## [Live de Python #9](https://youtu.be/WZjOOlrbjUA)
