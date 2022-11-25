@@ -57,6 +57,7 @@ extra:
 
 # Plugins
 plugins:
+  - search
   - exclude:
       glob:
         - descriptions/*
