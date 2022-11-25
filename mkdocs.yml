@@ -40,6 +40,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
 # Rodapé
 extra:
   social:
