@@ -1,0 +1,956 @@
+Link para a campanha: https://apoia.se/fastapi
+
+Boas-vindas ao curso de FastAPI.
+
+
+A ideia desse curso é ensinar o básico/intermediário de fastAPI e disponibilizar todas as aulas com acesso gratuito no meu canal do youtube em formato aberto para você poder aprender mais sobre desenvolvimento web e também alavancar sua carreira, por que não?
+
+
+Espero que você goste e compartilhe com o máximo de pessoas que puder. Eu acredito que o conhecimento deva ser compartilhado de forma aberta e livre. Por isso todo esse curso será gratuito e terá licenças abertas (CC BY-NC-SA), para garantir que você possa usar esse material para todo e qualquer fim.
+
+
+Você também pode se juntar a todas as outras pessoas interessadas no curso, na nossa comunidade no Telegram. Um espaço colaborativo, para trocarmos ideias sobre FastAPI, Python, fazer novos amigos e aprendermos juntos durante o curso.
+​O curso
+
+O objetivo desse curso é introduzir as pessoas no mundo do python web + FastAPI. Com isso iremos iniciar com uma introdução ao python moderno, falando sobre type hints e asyncio, passando pela construção de uma aplicação web feita em FastAPI e terminaremos fazendo o deploy da aplicação.
+
+
+​A estrutura do curso
+
+O Curso será dividido em 8 partes
+
+    1. ​Python Moderno
+    2. Introdução ao desenvolvimento web
+    3. FastAPI Básico
+    4. Bacos de dados
+    5. Sistemas de autenticação
+    6. FastAPI Intermediário
+    7. Templates
+    8. O mundo externo
+
+Visão detalhada:
+
+1 - Python moderno
+
+Uma visão sobre anotações de tipo, dataclasses e código assíncrono.
+
+2 - Introdução a web
+
+Uma passagem pelo protocolo HTTP, o que são requestes e respondes, headers e endpoints
+
+3 - FastAPI Básico
+
+Vamos configurar nosso ambiente e entender os componentes básicos do FastAPI, Pydantic, OpenAPI e tedes de unidade
+
+4 - Bancos de dados
+
+Nesse módulo vamos conversar um pouco sobre injeção de dependência, sobre como manter as configurações e também conversar sobre SQLAlchemy e ODMantic e um básico sobre testes de integração
+
+5 - Sistemas de autenticação
+
+Um mão na massa sobre sistemas de cookies, tokens e JWT
+
+6 - FastAPI Intermediário
+
+Vamos conversar sobre a organização e estrutura de um projeto, divisão entre router, logs, eventos e tarefas em background
+
+7 - Templates
+
+Conversar o básico sobre como renderizar HTML com FastAPI
+
+8 - O mundo externo
+
+Depois de tudo que passamos juntos, nada mais justo do que colocar nossa aplicação em produção. Vamos conversar sobre a importância do Gunicorn em produção, colocar nossos testes no github actions e fazer nosso tão esperado deploy.
+
+Link para a campanha: https://apoia.se/fastapi
+Será que é possível rodar kivy em ambiente de produção? O que falta nesse ambiente para que seja possível? Bora navegar juntos nessa saga para saber se essa é uma boa escolha?
+
+Links:
+
+- Github do projeto: https://github.com/dunossauro/copylot
+
+--------
+Ajude o Canal:
+- Apoia.se: https://apoia.se/livedepython
+- Chave PIX: Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+--------
+Me siga nas redes:
+- Twitch: https://www.twitch.tv/dunossauro
+
+- Twitter: https://twitter.com/dunossauro/
+- Instagram: https://www.instagram.com/dunossauro/
+
+- Github: https://github.com/dunossauro/
+
+
+
+#Kivy #Python #Mobile
+Nesse vídeo vamos atualizar o vídeo passado e vamos falar sobre como configurar o Atom para programar em Python.
+
+---------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-----------------
+
+
+#python #atom
+[Repost em maior qualidade]
+
+
+
+Na aula passada vimos como rodar o selenium grid, hoje vamos aprender como usar o selenium grid em conjunto com o docker. Vai ser maravilhoso
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium 
+
+-------------------
+
+#curso #python #selenium
+O Selene não é só um wrapper ou uma alternativa ao selenium original. É uma ferramenta fantástica, que provém vários mecanismos interessantes para validações e tudo mais
+
+
+Vamos aprender juntos? S2
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium 
+
+
+
+LINK DO FORMULÁRIO: https://forms.gle/umoM4UFPg6ZF8Puf8
+
+
+
+ -------------------
+
+#curso #python #selenium #selene
+Splinter é uma biblioteca muito legal, que faz um wrapper no selenium e fornece uma API muito gostosa de programar.
+
+
+Vamos aprender juntos? S2
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Na aula passada vimos como rodar o selenium grid, hoje vamos aprender como usar o selenium grid em conjunto com o docker. Vai ser maravilhoso
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Selenium grid é uma ferramenta que nos permite usar os browsers de maneira distribuída. Podemos rodar browsers de windows, como ie, partindo de um host linux e etc...
+
+
+Vamos juntos? S2
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Vamos entender como usar o que aprendemos com selenium até agora e empacotar em uma estrutura de testes usando BDD?
+
+
+O behave é uma ferramenta de testes interessante para usar BDD com python e o nosso page objects que fizemos na aula
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Hoje vamos entender o que de fato faz o page object (POM) ser um bom padrão para ajudar na manutenabilidade do códigoe como organizar isso de maneira mais assertiva. 
+
+
+
+Conversamos um pouco também da organização das pastas no projeto e como fazer isso de maneira simples. Também, estendendo nossa visão, mostramos como construir um esquema de assertivas usando AAA ou 3A e uma visão geral de como essa nossa linguagem de domínio, DSL, pode ajudar na concepção de cenários usando BDD.
+
+
+Vamos juntos? S2
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Que lindo, hoje vamos falar sobre o padrão de projeto page object com selenium. Nossa vida vai ficar bem mais fácil
+
+Vem comigo S2
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Chegou a hora de aprendermos a interagir com as janelas, com as abas, com os frames e os alertas com selenium.
+
+
+
+
+
+Vem comigo S2
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Produzir conteúdo sozinho é difícil as vezes. A ideia dessa série "Produzindo com dunossauro" é mostrar que é possível produzir sozinho e mostrar como eu tenho feito as coisas
+
+
+Hoje vamos conversar sobre LUTs e correção de cor no OBS e no kdenlive
+
+
+---------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+Picpay: @livedepythonpicpay
+Assinaturas: @dunossauro
+---------------------------------------------------------------
+
+Vídeo do @LivreLabs 
+
+https://youtu.be/FwxTjO1g-1M
+
+---------------------------------------------------------------
+
+#produzindoConteudo #SoftwareLivre
+Produzir conteúdo sozinho é difícil as vezes. A ideia dessa série "Produzindo com dunossauro" é mostrar que é possível produzir sozinho e mostrar como eu tenho feito as coisas.
+
+
+Hoje vamos entender a configuração inicial do OBS.
+
+
+
+---------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+picpay Assinatura: @dunossauro
+
+---------------------------------------------------------------
+
+
+
+#produzindoConteudo #SoftwareLivre
+Produzir conteúdo sozinho é difícil as vezes. A ideia dessa série "Produzindo com dunossauro" é mostrar que é possível produzir sozinho e mostrar como eu tenho feito as coisas
+
+
+---------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+picpay Assinatura: @dunossauro
+
+---------------------------------------------------------------
+
+
+
+#produzindoConteudo #SoftwareLivre
+Chegou a hora de aprender os waits usando expected conditions no selenium com python.
+
+
+Vem comigo S2
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Chegou a hora de aprender sobre como esperar os elementos e ver como funcionam os waits no Selenium.
+
+
+Vem comigo S2
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Vídeo para bater um papo sobre como foi meu ultimo mês
+
+
+------------------------
+
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @livedepython
+picpay: @dunossauro
+
+
+
+Redes
+github: @dunossauro
+twitter: @dunossauro
+instagram: @dunossauro
+telegram: @dunossauro
+Vamos entender como os eventos funcionam?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Vamos entender como os eventos funcionam?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+#curso #python #selenium
+Hoje vamos conversar sobre como procurar e interagir com elementos nas páginas web
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+
+
+
+#curso #python #selenium
+Hoje vamos conversar sobre como procurar e interagir com elementos nas páginas web
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+
+
+
+#curso #python #selenium
+hoje vamos entender como funcionam os mecanismos de histórico e location do browser e como funcionam os atributos com elementos aninhados
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+
+
+
+#curso #python #selenium
+hoje vamos entender como vamos como fazer nossa primeira automação usando selenium
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos e Slides: https://github.com/dunossauro/curso-python-selenium
+
+Telegram do curso: https://t.me/cursopythonselenium
+
+
+LINK DA AULA: https://curso-python-selenium.netlify.app/aula_03.html
+
+
+EXERCÍCIO 01: https://curso-python-selenium.netlify.app/exercicio_01.html
+
+EXERCÍCIO 02: https://curso-python-selenium.netlify.app/exercicio_02.html
+ -------------------
+
+#curso #python #selenium
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+
+---------------------
+Boas vindas ao curso rápido de python.
+
+Esse curso foi feito para introduzir a linguagem no curso de selenium que fizemos no canal.
+
+Espero que goste
+
+---------------------
+
+Códigos e slides: https://github.com/dunossauro/curso-introdutorio-de-python
+
+
+#python3 #curso #introducao
+Nessa aula vamos responder as perguntas de todos:
+O que é selenium?
+Para que serve o selenium?
+Por que selenium chama selenium?
+Quando o selenium foi criado
+O que é selenium webdriver?
+O que é selenium grid?
+O que é selenium IDE?
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos: https://github.com/dunossauro/curso-python-selenium
+Telegram do curso: https://t.me/cursopythonselenium
+
+-------------------
+
+
+LINK DO QUESTIONÁRIO:  https://quizizz.com/join/quiz/5ea4461e58935d001c9b6db9/start?from=soloLinkShare&referrer=5ea34827277c12001c207e47
+
+
+
+
+
+#curso #python #selenium
+Nessa aula do curso de selenium com python vamos aprender a configurar nosso ambiente para o desenvolvimento do curso no windows.
+
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-------------------
+Códigos: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium
+-------------------
+Links para o WLS:
+https://docs.microsoft.com/pt-br/windows/wsl/wsl2-install
+
+
+
+
+
+#curso #python #selenium
+Nessa aula do curso de selenium com python vamos aprender a configurar nosso ambiente para o desenvolvimento do curso no linux.
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+
+ -------------------
+Códigos:https://github.com/dunossauro/curso-python-selenium
+
+Telegram do live: https://t.me/cursopythonselenium
+
+
+
+
+#curso #python #selenium
+Será mesmo que dá pra fazem front-end com python?
+
+
+
+
+Curso de selenium: https://dunossauro.github.io/curso-python-selenium/
+Doc do brython: https://brython.info/
+Github do brython: https://github.com/brython-dev/brython
+
+Código que fizemos: https://gist.github.com/dunossauro/e5a7ba24eab4c1ad908a6e73e9cf5e25 
+
+----------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+------------------------------------------------------
+
+
+#python #frontend #bryhton
+Nesse vídeo vamos ver como configurar a checagem automática de sintaxe de código no emacs
+
+
+#configurando #emacs #flyceck
+A ideia principal desse vídeo é mostrar como mudar, configurar e instalar novos temas no emacs
+
+
+#configurando #emacs #temas
+A ideia dessa vídeo é mostrar como facilitar o uso ergonômico do emacs usando o ergoemacs
+
+
+
+
+#configurando #emacs #ergoemacs
+Nesse vídeo vamos entender como configurar uma forma melhor de manipular janelas e como navegar entre elas
+
+
+#configurando #emacs
+Nesse vídeo vamos aprender a criar atalhos personalizados no Emacs.
+
+
+
+
+#configurando # emacs
+Nesse vídeo vamos falar sobre a barra de navegação neotree e como fazer a instalação e configuração no emacs
+
+
+-----------------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-----------------------------------------------------------------------------------------------------
+
+
+ #configurando #emacs #neotree
+A ideia desse vídeo é explicar como instalar o pacote de auto complete no emacs 
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+ #configurando #emacs #autocomplete
+Nesse vídeo vamos conversar sobre o which key, um plugin do emacs que ajuda você a encontrar o comando certo, na hora certar. 
+
+
+-----------------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-----------------------------------------------------------------------------------------------------
+
+#configurando #emacs #whichkey
+Nesse vídeo vamos ver como configurar o emacs para fazer o gerenciamento de pacotes. Como instalar pacotes, como adicionar repositórios, como o melpa
+
+#configurando #emacs #melpa
+Nesse primeiro vídeo vamos aprender a usar o arquivo de configuração do emacs e vamos limpar as configurações que vem por padrão no emacs para que possamos ter um ambiente mais limpo. 
+
+
+
+-----------------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+-----------------------------------------------------------------------------------------------------
+
+#configurando #emacs
+Testes com selenium são um problema em determinados times. Construir uma infraestrutura baseada em selenium as vezes pode parecer complicado de mais. Que esse seja seu guia definitivo para escolher suas ferramentas.
+
+
+Nesse vídeo apresento a vocês a minha escolha de stack baseada em algumas ferramentas que gosto
+
+
+Selenoid, GGR, Selenium docker, Appium, e Docker Android
+
+
+
+Espero que tenham curtido o conteúdo.
+
+
+
+#Selenium #Testes #Senenoid
+Chamada para a nova série da live de Python sobre padrões de projeto. Se você já teve vontade de aprender ou gostaria de entender a fundo sobre padrões essa série foi feita pensando em você.
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+-------------------
+#padroesdeprojeto #livedepython #python3
+Chegamos a mais um vídeo da nossa minissérie sobre funções. Hoje vamos falar um pouco sobre funções aninhas e como se comportam as funções definidas dentro de outras funções.
+
+--------------
+
+As minisséries são um complemento as lives de Python tradicionais, quem sabem em um futuro próximo elas não possam virar um série de lives?
+
+----------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+
+------------------
+#minisseriedefuncoes #pythonFuncional #python3
+https://pyjamas.live/
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+[Repostagem do canal oficial do evento]
+
+https://youtu.be/u98zHqT9m44
+
+------------------------------------------------------------------------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de...
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de...
+Nesse episódio da Minissérie Pythonica de funções vamos conversar sobre funções parciais e como isso pode ajudar a simplificar a chamada de nossas funções usando o módulo functools.
+
+Funções parciais em python ou partial funcions são recursos que permitem simplificar o numero de argumentos de uma função na hora em que ela for chamada.
+
+----------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+
+----------------------------------
+#minisseriedefuncoes #pythonFuncional #python3
+Nesse episódio da nossa minissérie pythonica de funções vamos conversar um pouco sobre o módulo operator nativo do python.
+
+O módulo operator pode nos ajudar a escrever menos funções anônimas (lambda) e ter um código com uma melhor legibilidade.
+
+---------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+
+----------------------------------
+#minisseriedefuncoes #pythonFuncional #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+Código: https://gitlab.com/dunossauro/miniserie-funcoes
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+-------------------------------
+
+gist: https://gist.github.com/dunossauro/75bf3cb742b93557e21ef82ccc3cdd76
+
+--------------------------------
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Repost: https://www.youtube.com/watch?v=6Y8-ygtKekI
+Frases de programador que valem tapas na cara
+
+
+--------------------------------------------------------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Repost do vídeo do Grupy-SP: https://youtu.be/VH5o6QNK8D4
+
+Agradecimentos especiais ao Alexandre Harano pela gravação
+
+:heart:
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/crudzin
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+-----------------------------------------------------------------------------------------------
+
+[REPOST]
+Postagem oficial: https://youtu.be/D9dWs_8mXoA
+
+---------------------------------------------------------------------------------------------
+
+Vídeo sobre flask e tdd usando a biblioteca unittests nativa do python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://gitlab.com/dunossauro/do-zero-ao-deploy
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://gitlab.com/dunossauro/do-zero-ao-deploy
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://gitlab.com/dunossauro/do-zero-ao-deploy
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+(Repost)
+
+Link Original: https://youtu.be/DmRuTbfuW40
+O que você faz na hora do jogo do Brasil?
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo: https://apoia.se/livedepython
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+A ideia dessa vídeo é resolver o problema buzzfizz usando programação funcional com python e usando técnicas de tdd para auxiliar o desenvolvimento
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Entendendo um pouco do que se trata, do que facilita na nossa vida.
+
+Código: https://github.com/dunossauro/dataclasses-examples
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+A ideia desse vídeo é fazer uma comparação básica entre collections.namedtuple, typing.NamedTuple e dataclasses
+
+
+Código: https://github.com/dunossauro/dataclasses-examples
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Vamos entender como as dataclasses se comportam?
+
+Nessa primeira parte vamos simplesmente comparar o comportamento simples de uma dataclass com uma classe normal.
+
+Código: https://github.com/dunossauro/dataclasses-examples
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código:https://gitlab.com/dunossauro/splitty
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://gist.github.com/dunossauro/829290f05269b8fbd84e276608ca2546
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Ora pois pois, vamos falar de slice? Vamos fatiar objetos?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Um vídeo simples sobre mock.patch e testes da saída padrão.
+
+Gist: https://gist.github.com/dunossauro/eb1f3aa236b8b3b140eefee96b3fded4
+Pondo mais um ponto em outra dicussão infinita sobre sistemas operacionais.
+
+Diolinux: https://www.youtube.com/user/Diolinux
+LoopInfinito: https://www.youtube.com/user/oloopinfinito
+toca do tux: https://www.youtube.com/user/tocadotux
+Botando um ponto final na discussão mais chata e infinita de todos os tempos
+
+Atom: https://atom.io
+brackets: http://brackets.io
+sublime: https://www.sublimetext.com/
+jetbrains: https://www.jetbrains.com
+Geany: https://www.geany.org
+Netbeans: https://netbeans.org
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Você gosta dos objetos do pySpark? Eu adoro. Vamos tentar implementar um objeto parecido?
+
+https://gist.github.com/dunossauro/9f68663b01c22fc3a3a328b26ca2da01
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Resultado de uma pergunta no facebook:
+
+https://www.facebook.com/groups/python.brasil/permalink/1190295171075351/
+Link do repositório  no git:
+https://github.com/z4r4tu5tr4/python-built-in
+Video do Diolinux: https://www.youtube.com/watch?v=551xa5vEhJI
+
+Referências:
+
+1. http://susanadalcol.blogspot.com.br/2009/01/plato-e-escrita-como-fonte-de.html
+2. James Gleick - A informação
+Eu sei que nunca vou saber quem sou
+Mas eu sei que eu devo tentar
+Deixar de ser um eu tao confuso
+Escarrado em retrato
+Meio Gregor Samsa ou Dorian Gray
+Tão complexo e confuso
+Quanto um quadro vanguardista qual pintor eu não lembrei
+
+Mas eu sei que nunca vou saber onde ir
+Mas eu sei que devo seguir
+Rumo a estrada de tijolos amarelos para encontrar o odisseu
+Pra dormir em baixo a forca de El Zoto e morrer em eterno breu
+
+Eu sei que nunca vou poder sair
+Da caverna reminiscente
+Pois prefiro a solidao
+Ao estar com vocês
+Pois prefiro a solidão ao viver outra vez.
