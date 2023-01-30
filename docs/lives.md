@@ -1,5 +1,66 @@
 # Será que tem live de ... ?
 
+## [Retrospectiva Live de Python 2022](https://youtu.be/xjyQDLYfG9w)
+
+## [Live de Python #230](https://youtu.be/AIzzrERANVs)
+Me pergunte o que quiser sobre Python.
+
+## [Live de Python #229](https://youtu.be/2GWp3ozCeRY)
+Scapy - Programando protocolos de rede.
+
+## [Live de Python #228](https://youtu.be/oZw_mcH2Irs)
+Pyinstaller - como gerar executáveis.
+
+## [Live de Python #227](https://youtu.be/Ie5ef_R_k6I)
+Streamlit - Criando aplicações web.
+
+## [Live de Python #226](https://youtu.be/Vr9QXpELdrs)
+spaCy - Introdução a Processamento de Linguagem Natural.
+
+## [Live de Python #225](https://youtu.be/Rf1GDT8wiFU)
+Ansible - Automatizando tarefas.
+
+## [Live de Python #224](https://youtu.be/gadMAObZ_1Y)
+Rich - fazendo prints incríveis.
+
+## [Live de Python #223](https://youtu.be/ZJqSlzBDY-g)
+Pergunte o que quiser sobre Python.
+
+## [Live de Python #222](https://youtu.be/Br0cJo2YeNg)
+Automação de browsers com Playwright.
+
+## [Live de Python #221](https://youtu.be/GhKVR72eJmA)
+Introdução ao Pandas.
+
+## [Live de Python #220](https://youtu.be/7BfiLFiqGRU)
+Novidades Python 3.11.
+
+## [Live de Python #219](https://youtu.be/vT8iVef1GyU)
+O que você gostaria de saber sobre Python.
+
+## [Live de Python #218](https://youtu.be/pxfZTAJDipY)
+Como o interpretador do Python funciona.
+
+## [Live de Python #217](https://youtu.be/GRfQyBpSRjg)
+Análises de dados da bolsa de valores - com Inácio Medeiros.
+
+## [Live de Python #216](https://youtu.be/7BVoKUCVXIo)
+Pergunte o que quiser sobre Python.
+
+## [Live de Python #215](https://youtu.be/Wmxp0Qm0zeU)
+Mercado de trabalho Python, suas ferramentas e salários.
+
+## [Live de Python #214](https://youtu.be/eepX8Bb2BxI)
+Como fazer agendamento de tarefas com Python e Rocketry.
+
+## [Live de Python #213](https://youtu.be/lL9amfaaRws)
+O que são decoradores.
+
+## [Live de Python #212](https://youtu.be/oOo1uENjXhI)
+Automatizando edição de vídeos com Moviepy.
+
+Na live de hoje vamos conversar sobre como automatizar edição de vídeos com python usando moviepy.
+
 ## [Live de Python #211](https://youtu.be/yQtqkq9UkDA)
 Migrações, bancos de dados evolutivos (Alembic e SQLAlchemy).
 
@@ -54,7 +115,7 @@ Na live de hoje vamos conversar sobre PSutil. Uma biblioteca usada para monitora
 Também vamos construir um dashboard no terminal usando py-dashing, para simular um gerenciador de tarefas.
 
 ## [Live de Python #205](https://youtu.be/CcYqwUfp6UQ)
-Plone, o CMS pythonico - Com Érico Andrei.
+Plone, o CMS pythonico - com Érico Andrei.
 
 Na live de hoje vamos bater um papo gostoso e aprender um pouco sobre Plone com Érico Andrei.
 
@@ -142,13 +203,13 @@ Como fazer debug remoto? Como debugar no iptyhon? Tem um jeito de debugar dentro
 Hoje vamos conversar sobre isso e muito mais.
 
 ## [Live de Python #196](https://youtu.be/K6YT2y38Zqc)
-Criando API's robustas - Com Cássio Botaro.
+Criando API's robustas - com Cássio Botaro.
 
 ## [Live de Python #195](https://youtu.be/OUyiK1kZHoM)
-Machine Learning com PyTorch - Com Leon Sólon (Let's Data).
+Machine Learning com PyTorch - com Leon Sólon (Let's Data).
 
 ## [Live de Python #194](https://youtu.be/94FQUHVU39s)
-20 anos da espetacular versão 2.2 do Python - Com João JS Bueno.
+20 anos da espetacular versão 2.2 do Python - com João JS Bueno.
 
 ## [Live de Python #193](https://youtu.be/hB6bI4PneOk)
 Me pergunte o que quiser sobre Python!
@@ -180,7 +241,7 @@ Me pergunte o que quiser sobre Python.
 GraphQL (Strawberry e FastAPI).
 
 ## [Live de Python #184](https://youtu.be/Bb_TvqoUxX4)
-Organizando projetos Python com GNU Make -  - Com João Lugão.
+Organizando projetos Python com GNU Make - com João Lugão.
 
 ## [Live de Python #183](https://youtu.be/zVnV5s07i8U)
 Fazendo música com FoxDot.
@@ -224,7 +285,7 @@ FaaS e AWS Lambdas.
 Pattern Matching.
 
 ## [Live de Python #170](https://youtu.be/L1f6N6NcgPw)
-Github Actions -  - Com Willian Lopes.
+Github Actions -  - com Willian Lopes.
 
 ## [Live de Python #169](https://youtu.be/BieZQkwt1UQ)
 Mercado de trabalho de Python no Brasil.
@@ -462,7 +523,7 @@ Introdução a padrões de projeto (parte 1).
 ## [Live de Python #114](https://youtu.be/jufCvVV_HI0)
 Bazuca ou canivete, Django ou Flask - com Tyrone Damasceno.
 
-## [Live de Python  #113 - FastAPI - Com João Lugão](https://youtu.be/MxlS5_MI_WY)
+## [Live de Python  #113 - FastAPI - com João Lugão](https://youtu.be/MxlS5_MI_WY)
 ## [Vamos ao Pyjamas](https://youtu.be/he5RGLhOiCE)
 ## [Live de Python #112](https://youtu.be/bSFjmGakIPU)
 Testes de perfomace com Locust - com Flávio Meira.
@@ -507,7 +568,7 @@ TDD com Mamba e Expects.
 WSGI e Gunicorn.
 
 ## [Live de Python #100](https://youtu.be/wReCMR8rnRI)
-Tudo ao mesmo tempo agora - Com Luciano Ramalho.
+Tudo ao mesmo tempo agora - com Luciano Ramalho.
 
 ## [Minissérie Pythonica - Funções #9 - Funções parciais (functools)](https://youtu.be/1jmQbQXTQ6A)
 ## [Minissérie Pythonica - Funções #8 - Módulo operator](https://youtu.be/EkHsjUsaNMg)
@@ -516,7 +577,7 @@ Tudo ao mesmo tempo agora - Com Luciano Ramalho.
 ## [Minissérie Pythonica - Funções #5 - Documentando funções com docstrings](https://youtu.be/O_MezGJfGqU)
 ## [Minissérie Pythonica - Funções #4 - Anotações de tipos de argumentos](https://youtu.be/uSpbNd1XaKg)
 ## [Live de Python #99](https://youtu.be/XKV-C8Tba-8)
-Vamos entender a conferência Python Brasil - Com Mário Sérgio e Ana Dulce.
+Vamos entender a conferência Python Brasil - com Mário Sérgio e Ana Dulce.
 
 ## [Minissérie Pythonica - Funções #3 - Empacotamento e desempacotamento de argumentos](https://youtu.be/-K38SBdeuys)
 ## [Minissérie Pythonica - Funções #2 - Argumentos posicionais, nomeados e o Python 3.8](https://youtu.be/UQVIb_X_dOk)
@@ -565,7 +626,7 @@ Decoradores.
 Iteradores e Geradores.
 
 ## [Live de Python #85](https://youtu.be/AQzMk0j41S0)
-Engenharia de qualidade (QE) - Com Og Maciel.
+Engenharia de qualidade (QE) - com Og Maciel.
 
 ## [Template injection Jinja_Flask - Grupy Aniversário 2018](https://youtu.be/48M6lm1ROV0)
 ## [Live de Python #84](https://youtu.be/yEighFc_bZM)
@@ -588,10 +649,10 @@ Melhorando testes de unidade com Faker, Factory boy e Hypothesis.
 Testes de unidade na prática.
 
 ## [Live de Python #78](https://youtu.be/5LMG4OCoEn0)
-Raspando a web com Scrapy - Com Renne Rocha.
+Raspando a web com Scrapy - com Renne Rocha.
 
 ## [Live de Python #77](https://youtu.be/OGNUq0w3j9E)
-Combinação Explosiva - Processo Seletivo com Just Python - Com Renzo Nuccitelli.
+Combinação Explosiva - Processo Seletivo com Just Python - com Renzo Nuccitelli.
 
 ## [Aulão de flask](https://youtu.be/XDclLJQVbNQ)
 ## [Live de Python #76](https://youtu.be/mOrsJwY2038)
@@ -601,7 +662,7 @@ Testes de unidade p.II - Dublês de teste.
 Testes de unidade.
 
 ## [Live de Python #74](https://youtu.be/AzS7OVzji8g)
-Comunidades - Com Letícia Silva.
+Comunidades - com Letícia Silva.
 
 ## [Escrevendo Testes com Flask e #justPython [FlaskConf2018]](https://youtu.be/MS1US-iCh2M)
 ## [Retrospectiva Live de Python 2018](https://youtu.be/wU0IHL_qtbY)
@@ -610,10 +671,10 @@ Comunidades - Com Letícia Silva.
 ## [Do zero ao deploy #1 - Configurando o Gitlab-CI_Gitlab Pages](https://youtu.be/wDjZGkfphbk)
 ## [Do zero ao deploy #0 - Introdução](https://youtu.be/LpWPijZYWnQ)
 ## [Live de Python #73](https://youtu.be/Td8Wbr4Y3bU)
-import this, tdd e exercícios em python - Com João Lugão.
+import this, tdd e exercícios em python - com João Lugão.
 
 ## [Live de Python #72](https://youtu.be/urxB1ep4hkQ)
-Construíndo API REST com Pyramid + Cornice - Com Marcelo Moraes.
+Construíndo API REST com Pyramid + Cornice - com Marcelo Moraes.
 
 ## [Live de Python #71](https://youtu.be/cloqAaQ-6Go)
 Resolvendo problemas do Project Euler - com Helio Meira Lins.
