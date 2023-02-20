@@ -1,0 +1,31 @@
+Nessa live entenderemos como converter código python em executáveis. Para podermos distribuir nossos aplicativos e programas para pessoas que não tem o python instalado na máquina.
+
+Vamos ver como gerar um executável, como gerar um executável de um único arquivo, como funcionam os arquivos .spec, como usas bibliotecas de terceiros no nosso executável, como lidar com problemas de importação e muito mais...
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+- Documentação oficia: https://pyinstaller.org/
+- Série sobre executáveis: https://www.youtube.com/playlist?list=PLOQgLBuj2-3Kpx-Qaf00mVUUmSgv4Vinx
+- Live sobre Tkinter: https://youtu.be/vNEwbfsZ-Js
+- Bootloader: https://pyinstaller.org/en/latest/bootloader-building.html
+- Hooks:
+  - Nativos: https://github.com/pyinstaller/pyinstaller/tree/develop/PyInstaller/hooks
+  - Comunidade: https://github.com/pyinstaller/pyinstaller-hooks-contrib
+  - Como criar hooks: https://github.com/pyinstaller/hooksample
+  - Pacotes suportados: https://github.com/pyinstaller/pyinstaller/wiki/Supported-Packages

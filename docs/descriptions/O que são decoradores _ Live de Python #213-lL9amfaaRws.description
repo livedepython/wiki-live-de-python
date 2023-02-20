@@ -1,0 +1,22 @@
+Já se perguntou como funcionam os decoradores em Python? O que você precisa fazer para implementar um decorador?
+
+Na live de hoje vamos percorrer o caminho para entender todas as coisas envolvidas na criação de um decorador. Vamos entender o que são funções como objetos de primeira classe, o que são funções de alta ordem, o que é aninhamento de função, como funcionam as closures, o que são variáveis livres e o que tudo isso tem a ver com a implementação dos decoradores.
+
+Então, vamos juntos desbravar os recursos de programação funcional do python
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----

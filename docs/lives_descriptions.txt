@@ -1,0 +1,3969 @@
+Bora bater um papo e ver tudo pelo que passamos e o que aprendemos esse ano.
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Live de perguntas e respostas sobre todo e qualquer assunto relacionado a python. Tentarei responder todas as perguntas que eu souber a resposta.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Nessa live vamos conversar sobre a biblioteca Scapy. Uma biblioteca para programação manipulação de protocolos de rede. Ideal para pentesters, estudantes de rede e cruiosos pelo baixo nível.
+
+Vamos debater um básico sobre redes de computadores, sobre como programar protocolos e como fazer sniffing de rede.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+- Site oificial: https://scapy.net/
+- Documentação: https://scapy.readthedocs.io/en/latest/
+Nessa live entenderemos como converter código python em executáveis. Para podermos distribuir nossos aplicativos e programas para pessoas que não tem o python instalado na máquina.
+
+Vamos ver como gerar um executável, como gerar um executável de um único arquivo, como funcionam os arquivos .spec, como usas bibliotecas de terceiros no nosso executável, como lidar com problemas de importação e muito mais...
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+- Documentação oficia: https://pyinstaller.org/
+- Série sobre executáveis: https://www.youtube.com/playlist?list=PLOQgLBuj2-3Kpx-Qaf00mVUUmSgv4Vinx
+- Live sobre Tkinter: https://youtu.be/vNEwbfsZ-Js
+- Bootloader: https://pyinstaller.org/en/latest/bootloader-building.html
+- Hooks:
+  - Nativos: https://github.com/pyinstaller/pyinstaller/tree/develop/PyInstaller/hooks
+  - Comunidade: https://github.com/pyinstaller/pyinstaller-hooks-contrib
+  - Como criar hooks: https://github.com/pyinstaller/hooksample
+  - Pacotes suportados: https://github.com/pyinstaller/pyinstaller/wiki/Supported-Packages
+Nessa live vamos conversar sobre como construir aplicações sem a necessidade de saber front ou backend. A ideia é simples, usar somente código python e criar suas aplicações.
+
+Nessa live faremos a aplicação do zero e vamos até o deploy. Enquanto isso aprenderemos os conceitos básicos da biblioteca.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+
+Nosso app inicial: https://dunossauro-test-streamlit-app-ly9jox.streamlit.app/
+Site oficial: https://streamlit.io/
+Documentação: https://docs.streamlit.io
+API e Widgets: https://docs.streamlit.io/library/api-reference
+cheatsheet: https://docs.streamlit.io/library/cheatsheet
+Componentes externos: https://streamlit.io/components
+Ace: https://github.com/okld/streamlit-ace
+Bora bater um papo sobre o que é e como fazer processamento de linguagens naturais usando Python e spaCy?
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+
+- Documentação do spaCy: https://spacy.io
+- Lista de modelos: https://spacy.io/usage/models
+- Containers: https://spacy.io/api/#architecture-containers
+- Para as marcações:
+   - Dependências: https://universaldependencies.org/u/dep/
+   - POS: https://universaldependencies.org/u/pos/
+
+Outros links:
+- Curso da Ines Montani (Fundadora da Explosion): https://course.spacy.io/pt
+Vamos bater um papo sobre automação de tarefas de todos os tipos com Ansible.
+
+Vamos fazer um tutorial do zero. Configurando as máquinas virtuais com Vagrant e fazendo as configurações delas com Ansible.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://ansible.dunossauro.live/
+Telegram da live: https://t.me/livepython
+
+----
+Vamos conversar sobre textos ricos no terminal? Como adicionar cores, formatação, emojis criar estruturas tabulares no shell.
+
+Rich é a biblioteca que vai nos fornecer todo o ferramental necessário para isso!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Seguindo nossa tradição. Hoje é dia de responder qualquer pergunta a respeito de python que souber responder. Então, sinta-se em casa e pergunte o que quiser!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Nessa live vamos conversar sobre que fazer automações de browser usando Python e Playwright.
+
+Uma biblioteca desenvolvida pelo time de open source da Microsoft em 2020. Com foco em auxiliar em testes de integração!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Bora aprender o básico sobre Pandas? A biblioteca mais querida e amada do mundo da ciência de dados?
+
+Hoje vamos conversar sobre os fundamentos, a sua base no numpy, os arrays nativos do python, um básico sobre as séries e enfim, os maravilhosos dataframes
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Vamos conversar sobre as novidades da versão 3.11 do Python?
+
+Vamos conversar sobre TOMLlib, TaskGroup do asyncio, ExceptionGroup para novos tipos de exceptions no python, novidades do typing. Como o tipo Self, strict TypedDict, Generic Variadics. Notas para exceções e a nova sintaxe para excpect*.
+
+Também vamos falar sobre o novo modo desempacotamento de tuplas, novidades da pathlib, melhores mensagens de erros no terminal e etc...
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Um bate-papo descontraído sobre python e tudo que me perguntarem nessa live.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Na live de hoje vamos conversar sobre como o python interpreta o código. Como o código é compilado em bytecode, o que são ASTs, como o python avalia os frames, como o interpretador de pilha executa o código. e etc... Nos basearemos nas implementações do CPython.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Nessa live vamos aprender como analisar os dados da bolsa de valores usando Python.
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Contatos do Inácio:
+
+Twitter: @inaciomdrs
+Instagram: @inaciogmedeiros_blog
+Blogs: 
+contemplandoomercardo.github.io
+https://contemplandoomercado.substack.com
+E-mail: contemplandoomercado@gmail.com
+
+---
+Nessa live vou responder as perguntas que me fizerem ao vivo sobre Python e eu souber responder é claro.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Na live de hoje vamos bater um papo sobre o mercado de trabalho do pythom, as ferramentas mais pedidas pelas empresas, os salários no brasil. Quais carreiras são valorizadas e contempladas pelo uso de python? Dentro dessas áreas, quais a ferramentas mais importantes para se aprender?
+
+Vamos conversar sobre algumas pesquisas importantes feitas por pythonistas.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+LINKS CITADOS:
+
+- PSF +JetBrains survey: https://lp.jetbrains.com/python-developers-survey-2021/
+- Pesquisa Python no Brasil: https://blog.nilo.pro.br/posts/2022-04-03-python-no-brasil-2022/
+- Survey StackOverflow: https://insights.stackoverflow.com/survey/
+Vamos aprender a agendar tarefas periódicas com Rocketry? Rocketry é uma biblioteca moderna para agendamentos e muito simples de usar. Tem uma API maravilhosa e tem suporte a programação assíncrona
+
+Então, se quer aprender como fazer agendamento de tarefas. Essa live é pra você
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Já se perguntou como funcionam os decoradores em Python? O que você precisa fazer para implementar um decorador?
+
+Na live de hoje vamos percorrer o caminho para entender todas as coisas envolvidas na criação de um decorador. Vamos entender o que são funções como objetos de primeira classe, o que são funções de alta ordem, o que é aninhamento de função, como funcionam as closures, o que são variáveis livres e o que tudo isso tem a ver com a implementação dos decoradores.
+
+Então, vamos juntos desbravar os recursos de programação funcional do python
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Na live de hoje vamos conversar sobre como automatizar edição de vídeos com python usando moviepy.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+Na live de hoje vamos conversar sobre migrations, ou schema migrations usando python. Vamos entender os conceitos por trás dos designs evolutivos de bancos de dados e como aplicar isso com Alembic e SQLAlchemy.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados na Live:
+
+Referencial teórico:
+- [texto] DBs evolutivos: https://martinfowler.com/articles/evodb.html
+- [livro] Refatoração de bancos de dados: https://bitlybr.com/bzbOL
+
+Alembic:
+- Documentação do Alembic: https://alembic.sqlalchemy.org/
+- Operators: https://alembic.sqlalchemy.org/en/latest/ops.html
+- Blog do Mike Bayer: https://techspot.zzzeek.org/
+
+Lives de Python anteriores:
+- SQLAlchemy core #11: https://youtu.be/rBIksyGY4_E
+- SQLAlchemy ORM #139: https://youtu.be/UgaybOYMKS0
+- SQLAlchemy 1.4+ #166: https://youtu.be/nwJYbbJfJpg
+Na live de hoje vamos conversar sobre como criar bots para telegram usando a biblioteca pyrogram. Vamos começar do zero até o deploy do bot no Heroku.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos fazer uma introdução a criação de interfaces gráficas usando QT e PySide. Vamos conversar um pouco sobre as bibliotecas de Widgets, QT Design e QT Quick com QML.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Nessa live vou responder as perguntas que me fizerem ao vivo sobre Python e eu souber responder é claro.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos discutir sobre variáveis de ambiente e configurações de sistemas. Tendo em base uma aplicação que segue os 12 fatores e como isso implica no sistema e no uso de constantes.
+
+Vamos conversar um pouco sobre variáveis de ambiente, o módulo os, a biblioteca dotenv e pincelar um pouco do dynaconf
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos conversar sobre PSutil. Uma biblioteca usada para monitorar a atividade do sistema operacional com Python. Consumo de rede, CPU, Memória, discos e também monitorar processos e seu consumo individual de cpu e memória.
+
+Também vamos construir um dashboard no terminal usando py-dashing, para simular um gerenciador de tarefas.
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos bater um papo gostoso e aprender um pouco sobre Plone com Érico Andrei.
+
+-------------------
+
+Contatos do Érico
+
+https://twitter.com/ericof
+https://www.linkedin.com/in/ericof/
+https://www.github.com/ericof
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Um bate papo sobre gargalos de performance nas aplicações python e como identifica-los.
+
+Como identificar tempo de execução, consumo de memória, muitas chamadas repetidas e etc...
+
+Vamos passar por timeit, memory profiler, cProfile, snakeviz, pyinstrument, eliot e mais...
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos conversar sobre como usar a biblioteca nativa datetime e como ela atua no código. Quais seus objetos e como manipular o tempo.
+
+Vamos passas por time, date, timedelta, timezones e finalmente o datime
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Nessa live vamos conversar sobre como criar suas primeiras interfaces gráficas usando PySImpleGUI. Então vamos aprender a usar as windows e os widgets. Alé de conhecer as variações do PySImpleGUI como QT, web e Wx
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Hoje vamos falar sobre a biblioteca tempfile do python e como usa-la deixa nosso código mais seguro e performático. Além é claro, de aprender os macetes básicos dessa biblioteca.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Bora fazer festa hoje. Vou responder perguntas sobre tudo e contar a história da live de Python.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links citados nessa live:
+
+- Postagem original no facebook: https://www.facebook.com/groups/python.brasil/posts/1079845105453692/
+
+- Live de Python #Beta: https://youtu.be/mDWuZCI6AqM
+
+- Campanha no apoia.se: https://apoia.se/livedepython
+
+- Python, 42 e vida adulta: https://medium.com/@dunossauro/python-42-e-vida-adulta-fbf3caad0daa
+
+- Precisamos falar sobre a Live de Python: https://medium.com/@dunossauro/precisamos-falar-sobre-a-live-de-python-e94f7b030fe8
+
+- Keynote Python sudeste: https://youtu.be/_wqCwiRXBFk
+
+- Coach de cursos: https://www.instagram.com/tv/CBpKMs-n6r7/?igshid=YmMyMTA2M2Y=
+
+- Curso de selenium: https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B
+
+- Palestra Python Brasil 2021: https://youtu.be/8GIdoAO4XEg
+Nessa Live vamos falar sobre manipulação de arquivos usando a Pathlib. Como copiar, colar, mover, criar deletar e fazer diversas operações com arquivos e diretórios (pastas).
+
+Também vamos ver como ela é uma alternativa a diversas bibliotecas do python. Como os, os.path, glob, shutil e stat
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos coversar sobre como estruturar logs em python. Quais ferramentas usar. Vamos entender a estrutura da biblioteca padrão logging, dos handlers, formaters e filters.
+
+Também vamos ver o Loguru e sua forma de fazer as coisas finalizando com os logs rodando no sentry
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Na live de hoje vamos bater um papo sobre como debugar código python na hora em que problemas aparecem. Vamos falar sobre o debuger nativo (pdb), e sobre algumas alternativas como ipdb, rpd, web_pdb.
+
+Como fazer debug remoto? Como debugar no iptyhon? Tem um jeito de debugar dentro de um container docker?
+
+Hoje vamos conversar sobre isso e muito mais
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Hoje contamos com a incrível presença de Cássio Botaro para nos ensinar um pouco sobre a criação de API's robustas com Python
+
+Contatos do Cássio:
+
+https://twitter.com/cassiobotaro
+https://github.com/cassiobotaro
+https://t.me/cassiobotaro
+https://www.linkedin.com/in/cassiobotaro/
+https://www.youtube.com/c/C%C3%A1ssioBotaro
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Contatos do Dunossauro: https://linktr.ee/dunossauro
+
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Hoje o Leon Sólon do Let's Data vai mostrar pra gente como utilizar a biblioteca PyTorch para criar redes neurais em Python.
+
+Contatos:
+
+Let's Data
+- https://letsdata.ai
+- @letsdata.ai (Instagram)
+- @letsdataAI (Twitter)
+
+Leon Sólon: @leonsolon (Instagram e Twitter)
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Contatos do Dunossauro: https://linktr.ee/dunossauro
+
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Vamos bater um papo com o João Bueno sobre a histórica versão 2.2 do python 20 anos após o seu lançamento!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+A ideia dessa live é tirar dúvidas das pessoas que estão na live ao vivo.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+Como organizar um projeto python? Quais ferramentas escolher? Qual estrutura de pastas devo usar? Como formatar meu código? O que fazer quando as coisas dão errado? Como estruturar minha documentação?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links citados durante a live
+
+- Post do André: https://blog.pronus.io/posts/python/como-comecar-um-projeto-python-perfeito/
+- Bibliotecas que olhamos a estrutura
+  - HTTPX: https://github.com/encode/httpx
+  - FastAPI: https://github.com/tiangolo/fastapi
+  - Poetry: https://github.com/python-poetry/poetry
+  - Numpy: https://github.com/numpy/numpy
+  - Tigre: https://github.com/dunossauro/tigre
+- pyenv: https://github.com/pyenv/pyenv
+- Live de ambientes virtuais (191): https://youtu.be/naGF7EIUFp0
+- Live de Poetry (179): https://youtu.be/ZOSWdktsKf0
+- gitignore: http://gitignore.io
+- git fichas: https://gitfichas.com/
+- Live de Pytest (167): https://youtu.be/MjQCvJmc31A
+- Live de unittest (75): https://youtu.be/Sr9lUR1COpU
+- Live de Behave (10): https://youtu.be/ReELqf9B86g
+- Live de MkDocs (189): https://youtu.be/GW6nAJ1NHUQ
+- Live complexidade de código (38): https://youtu.be/qG-F5tordqc
+- Live de padronização de código (39): https://youtu.be/bqxXWfCrUXs
+- Live sobre segurança de pacotes (163): https://youtu.be/cEkA9PH2oEk
+- Live sobre GNU Make (184): https://youtu.be/Bb_TvqoUxX4
+- Live sobre Github Actions (170): https://youtu.be/L1f6N6NcgPw
+
+
+-------------------
+Como não estragar o Python da sua máquina na instalação de bibliotecas? E afinal, pra que tantas ferramentas com nomes parecidos? pip, pipx, venv, virtualenv, pyenv, pipenv?
+
+Nessa live vamos aprender como usar ambientes virtuais e ais que isso, como eles funcionam.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#pip #venv #requirements
+Dicas de como aprender python, quais os conceitos básicos que você deve focar e como avançar o aprendizado em python.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Links citados:
+
+https://roadmap.dunossauro.live/
+
+-------------------
+
+#Python #Aprender
+Como você cria a documentação dos seus projetos em python? Já ouviu falar do MkDocs?
+Nessa live vamos aprender a criar, customizar e fazer deploy de uma documentação do zero!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Links citados:
+
+Especificação md: https://www.markdownguide.org/cheat-sheet/
+pymdown: https://facelessuser.github.io/pymdown-extensions/
+Temas na wiki: https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+material-theme: https://squidfunk.github.io/mkdocs-material/
+
+-------------------
+
+#Mkdocs #MarkDown #Python
+Bora codar uns csvs malucos e fazer nossa retrospectiva entender alguns dados de como foi nosso ano no canal?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Links citados:
+
+Playlist de executávies: https://www.youtube.com/playlist?list=PLOQgLBuj2-3Kpx-Qaf00mVUUmSgv4Vinx
+Documentação do compileall: https://docs.python.org/3/library/compileall.html
+Decompyle3: https://github.com/rocky/python-decompile3
+pyminifier: http://liftoff.github.io/pyminifier/
+Documentação pyarmor: https://pyarmor.readthedocs.io/en/latest/index.html
+Artigo do dropbox: https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf
+Palestra sobre engenharia reversa no código python: https://youtu.be/mUJs85yjHb8
+
+-------------------
+
+#Python
+Como usar o python dentro do Blender? Como fazer animações e modelagem usando Python?
+Na live de hoje vamos discutir um pouco sobre como criar scripts no Blender usando Python
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Links citados:
+
+Playlist de executávies: https://www.youtube.com/playlist?list=PLOQgLBuj2-3Kpx-Qaf00mVUUmSgv4Vinx
+Documentação do compileall: https://docs.python.org/3/library/compileall.html
+Decompyle3: https://github.com/rocky/python-decompile3
+pyminifier: http://liftoff.github.io/pyminifier/
+Documentação pyarmor: https://pyarmor.readthedocs.io/en/latest/index.html
+Artigo do dropbox: https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf
+Palestra sobre engenharia reversa no código python: https://youtu.be/mUJs85yjHb8
+
+-------------------
+
+#Python #Blender
+Nessa live vamos conversar sobre ofuscação de código python. Como fazer isso, o que é ofuscação, entender o byte-code do python e a compilação do mesmo. Também vamos ver um pouco sobre licenças de inspiração, compressão de código e alguns truques legais
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Links citados:
+
+Playlist de executávies: https://www.youtube.com/playlist?list=PLOQgLBuj2-3Kpx-Qaf00mVUUmSgv4Vinx
+Documentação do compileall: https://docs.python.org/3/library/compileall.html
+Decompyle3: https://github.com/rocky/python-decompile3
+pyminifier: http://liftoff.github.io/pyminifier/
+Documentação pyarmor: https://pyarmor.readthedocs.io/en/latest/index.html
+Artigo do dropbox: https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf
+Palestra sobre engenharia reversa no código python: https://youtu.be/mUJs85yjHb8
+
+-------------------
+
+#Python # pyarmor #pyminifier
+Hoje vamos fazer um bate papo e trocar ideias sobre Python em geral.
+
+Vem comigo
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#Python
+Na live de hoje vamos bater um papo sore como usar graphql com python. Vamos entender um pouco da tecnologia e dos padrões do GraphQL e vamos aplicar em uma aplicação com o framework Strawberry.
+
+Também vamos usar FastAPI e SQModel para segurar nossa aplicação.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+Links citados:
+- Live de FastAPI: https://youtu.be/MxlS5_MI_WY
+- Live de Dataclasses: https://youtu.be/NtZY3AmsBSk
+- Live de novidades do SQLAlchemy: https://youtu.be/nwJYbbJfJpg
+
+Documentações:
+- GraphQL: https://graphql.org/
+- Strawberry: https://strawberry.rocks/
+- FastAPI: https://fastapi.tiangolo.com/
+- SQLModel: https://sqlmodel.tiangolo.com/
+-------------------
+
+#GraphQL #Strawberry #Python
+Você já usou GNU make? Já viu makefiles em projetos python? Como usar make nos projetos python?
+Hoje o nosso incrível convidado vai nos mostrar como organizar e tirar proveito do GNU make com Python
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+Redes do João Lugão:
+Twitter: https://twitter.com/joaovoce
+Github: https://github.com/jlugao
+Twitch: https://www.twitch.tv/jlugao
+Instagram: https://instagram.com/joaovoce
+
+-------------------
+
+#python #GnuMake #Makeflile
+Hoje a nossa live é mais que especial. Vamos juntar as minhas duas maiores paixões. Música e programação. FoxDot é uma biblioteca python que em conjunto com o supercollider faz síntese de som e toca samples. Com isso podemos fazer musica live code e animar nossos dias.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+Links citados:
+
+Instalação do SuperCollider: https://supercollider.github.io/download
+Instalação do FoxDot: https://foxdot.org/installation/
+Curso de teoria musical: https://www.youtube.com/playlist?list=PLDE_lgCyeyihL4wnuNRuF5_gHIfv5l6A7
+
+-------------------
+
+#python #FoxDot #SuperCollider
+Bora conversar sobre como compilar e otimizar seu código usando Cython? Já pensou em ter os tipos estáticos do C e C++ no seu python?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #cython
+Sempre fica aquela dúvida. Quando usar f-strings? Quando usar .format? O que é possível de fazer com a mini linguagem da formatação?
+
+
+Hoje vamos entender esse contexto geral das formatações de string
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #string #formtacao
+Nosso objetivo de hoje é criar um aplicativo android usando KivyMD e python.
+
+
+Para fazer o build usaremos o buildozer, algumas interações com plyer e claro, nosso bom e velho Kivy.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #kivymd #buildozer
+Bora conversar sobre Poetry? Sobre virtualenv? Setuptool? Pip? Publicar pacotes no pypi?
+
+
+Nessa live vamos desenvolver e publicar nosso pacote
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #pip #poetry
+Bora bater um papo sobre especificações e documentações de APIs com OpenAPI, Swagger e Redoc?
+
+
+De quebra ainda gerar código python de especificações?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #OpenAPI #Swagger
+Bora bater um papo sobre como criar interfaces com Tkinter e deixar elas bonitonas prontas pra usar?
+
+
+Nessa live vamos conversar sobre os widgets disponíveis na biblioteca e sobre como personaliza-los usando ttk.
+
+
+Também vamos aprender a usar os temas prontos do ttkbootstrap e do ttkthemes. Além de claro transformar nossa aplicação em executável usando cx_freeze.
+
+
+E por último, mas não menos importante, vamos aprender também a usar uma RAD do tkinter chama pygubu. Assim podemos criar nossos layouts de maneira visual.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#python #tkinter
+Hoje vamos bater um papo sobre como manipular imagens com pillow e numpy.
+
+
+A ideia dessa live é entender como funcionam as imagens, matrizes, como fazer transformação de imagens, aplicar efeitos e quem sabe até recriar alguns filtros do instagram. Vamos ver também como adicionar texto a imagens e mais algumas firulas.
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#Pillow #python #Numpy
+Bora bater um papo sobre APIs REST? Entender o que são e botar a mão na massa para fazermos uma juntos?
+
+
+Vamos usar algumas bibliotecas bem legais como Flask, Pydantic, Swagger e TinyDB.
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#API #python #REST
+Contatos do Ramalho:
+
+
+Twitter: https://twitter.com/ramalhoorg
+Github: https://github.com/fluentpython/lispy
+Bora fazer uma introdução ao mongo e bater um papo sobre bancos de dados orientados a documentos?
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#mongo #python #NoSQL
+Na live de  hoje vamos conversar sobre o empacotamento de aplicações python. Seja gerando executáveis, seja  código compilado, quais modelos de distribuição e etc...
+
+Vamos passar por diversas ferramentas como Cython, Numba, Pyinstaller e pyoxidizer
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#executaveis #python
+Vamos bater um papo gostoso sobre Python, programação carreira e qualquer coisa mais que vocês quiserem saber ou papear!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+Hoje vamos conversar sobre FaaS, além de dar uma introdução sobre cloud. Vamos aprender como usar o AWS Lambda e como integrar tudo isso com python usando o framework chalice
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+Referências e links citados:
+
+
+Lambdas + awscli: https://docs.aws.amazon.com/pt_br/lambda/latest/dg/gettingstarted-awscli.html
+SAM: https://aws.amazon.com/pt/serverless/sam/
+chalice: https://github.com/aws/chalice/
+chalice workshop: https://chalice-workshop.readthedocs.io/en/latest/index.html
+
+
+-------------------
+
+
+
+#LiveDePython #FaaS #Lambda
+Chegou a hora de conversarmos sobre a feature mais esperada da versão 3.10 do Python. O Pattern Matching. Um alternativa sofisticada aos ifs/dicionários e ao switch case das linguagens imperativas.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Links para consultar depois ou citados na live:
+
+
+https://www.python.org/dev/peps/pep-0619/
+https://www.python.org/dev/peps/pep-0634/
+https://www.python.org/dev/peps/pep-0635/
+https://www.python.org/dev/peps/pep-0636/
+https://github.com/gvanrossum/patma
+https://docs.python.org/3.10/whatsnew/3.10.html#pep-634-structural-pattern-matching
+https://docs.python.org/3.10/reference/datamodel.html#customizing-positional-arguments-in-class-pattern-matching
+https://mathspp.com/blog/pydonts/structural-pattern-matching-tutorial
+https://docs.python.org/3.10/reference/grammar.html
+
+#LiveDePython #PatternMatching
+Bora bater um papo sobre Github Actions?
+
+
+Hoje o Willian vai nos mostrar como usar essa ferramenta incrível para criação de pipelines de integração contínua.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Contatos do Willian:
+
+
+Twitter: @williangl
+Github: @williangl
+Instagram: @willianglxd
+
+
+#LiveDePython #Github #GithubActions
+Hoje vamos bater um papo com o incrível Vinicius, responsável sobre a plataforma Pyjobs.
+
+
+Vamos papear sobre o Mercado de trabalho no Brasil. Onde estão as vagas, quais as principais habilidades que as empresas pedem. Como procurar sua vaga, como melhorar se CV. e etc...
+
+https://pyjobs.com.br/
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #trabalho #Mercado
+Bom, ainda tempos pontos em aberto para conversar sobre Pytest. Bora discutir sobre fixtures, seus escopos. Afinal, o que é uma fixture? Onde vivem?-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #Pytest #Fixture
+Sempre quis usar o pytest mais sentiu um pouco de dificuldade? Bora aprender um pouco sobre os plugins , marcadores, fixtures e as chamas de linha de comando
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #Pytest #Tests
+Bora bater um papo sobre as novas verões do SQLAlchemy? Como funciona o estilo 2.0, o suporte assíncrono ao ORM, o modelo de queries usando select?
+
+Hoje é um dia de navergar nas novas pesrpectivas do ORM
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #SQLAlchemy #Async
+Vamos conversar sobre Schemas hoje? Com pydantic e typing para facilitar nossa vida. Inclusive nos arquivos de configuração
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #Pydantic #Typing
+Hoje vamos conversar sobre websocket, esse protocolo que vem aquecendo nosso coração.
+
+Nessa live vamos papear sobre a evolução dos protocolos da web e como implementar websockets com FastAPI e Brython 
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #FastAPI #WebSocket
+Sim, vamos falar de dinheiro, vai!
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+#LiveDePython #Especial #100k
+Como funciona o seu ciclo de atualização? Os pacotes que você usa estão com algum CVE aberto? Como fazer o gerenciamento seguro de bibliotecas? Como garantir que não vamos estar com pacotes problemáticos? Sua aplicação está segura?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Links citados na live:
+
+- 3.9.4 - Release Notes: https://www.python.org/downloads/release/python-394/
+- Palestra do Bruno: https://youtu.be/niE53CSCAkc
+- Pypi: https://pypi.org/
+- Flask History: https://pypi.org/project/Flask/#history
+- pip-upgrader: https://github.com/simion/pip-upgrader
+- Mitre CVEs: https://cve.mitre.org/
+- Banco de dados do NIST: https://nvd.nist.gov/
+- CVAs: https://cve.mitre.org/cve/request_id.html
+- Safety: https://github.com/pyupio/safety
+- Politica de vendoring do pip: https://pip.pypa.io/en/latest/development/vendoring-policy/#vendoring-policy
+- Biblioteca de vendoring: https://pypi.org/project/vendoring/
+- Poetry-core: https://github.com/python-poetry/poetry-core
+
+
+-------------------
+
+#LiveDePython #pip #Safety
+Bora colocar nossa primeira aplicação em produção com o Heroku? Heroku é uma plataforma PaaS que permite que nós façamos nossa aplicação python rodar em produção
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+Links citados durante a live:
+
+- Live de Python WSGI: https://www.youtube.com/watch?v=J354T4gth0s
+- Live de Python Dash: https://www.youtube.com/watch?v=fKgPXUUsg1M
+- Live de Python SQLAlchemy-ORM: https://youtu.be/UgaybOYMKS0
+
+- Buildpack python: https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python
+- Buildpack Poetry: https://github.com/moneymeets/python-poetry-buildpack
+- Rodando localmente: https://devcenter.heroku.com/articles/heroku-local
+- Postgres CLI: https://devcenter.heroku.com/articles/heroku-postgresql#using-the-cli
+- Postgres URL + Flask: https://stackoverflow.com/questions/62688256/sqlalchemy-exc-nosuchmoduleerror-cant-load-plugin-sqlalchemy-dialectspostgre
+- Terminal CSS: https://terminalcss.xyz/
+- Build para Fast-API: https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/
+- Flask + Dash: https://blog.finxter.com/dash-flask/
+- Flask + SQLAlchemy: https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+----------------
+#LiveDePython #Heroku #Web
+Bora papear sobre Plotly Dash? Dash é uma ferramenta construída para criar dashboards com python
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+-------------------
+
+#LiveDePython #Dash #Plotly
+Já ouviu falar do Peewee?
+
+Peewee é um ORM para facilitar a manipulação de dados com python.
+
+Ele suporta SQLite, PostgreSQL, MySQL e CockroachDB.
+
+
+Ele é simples minimalista e com uma API sólida.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+-------------------
+
+#LiveDePython #Peewee #ORM
+Já ouviu falar no Celery? E em um modelo de processamento distribuído baseado em filas?
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links citados durante a live:
+
+
+
+Documentação do celery: https://docs.celeryproject.org/en/stable/index.html
+
+Download do RabbitMQ: https://www.rabbitmq.com/download.html
+
+API: http:s//live-159-external.herokuapp.com/
+
+
+-------------------
+
+#LiveDePython #Celery #RabbitMQ
+Bora aprender a como fazer um joguinho no pygame? É bem divertido.
+
+
+Nessa live vamos fazer um jogo simples para entender as principais funcionalidades do pygame
+
+- Manipulação de imagens
+- Como funcionam os sprites
+- Como manipular o display
+- Sistema de colisões
+- Textos
+- Eventos de mouse e teclado
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código :https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links citados durante a live:
+
+Pygame: https://www.pygame.org/
+
+
+
+Imagens usadas nos sprites e fundo: https://github.com/dunossauro/live-de-python/tree/master/codigo/Live158/images
+
+Série de orientação a objetos: https://www.youtube.com/playlist?list=PLOQgLBuj2-3L_L6ahsBVA_SzuGtKre3OK
+
+
+
+Live sobre Template method: https://youtu.be/WyyKnROg3a4
+
+-------------------
+
+#LiveDePython #pygame #Faustossauro
+Está cansado de ter problemas para criar interfaces de linha de comando? O Fire foi feito para ajudar a criar CLIs de maneira quase transparentes
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: 5363bcfa-aacd-4a87-84c3-917305af4a65
+
+-------------------
+
+Código:https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#LiveDePython #Fire #Google
+Você já se pegou perguntando o motivo de seus apps feitos com kivy nunca terem a aparência de um app nativo no android? Hoje vamos conhecer o kivymd uma biblioteca de widgets baseada em Material Design.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-------------------
+
+Código:https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+Links sobre a live:
+
+
+Live anterior sobre Kivy: https://youtu.be/5ApbLrcUtlE
+
+Documentações oficiais:
+Documentação sobre KV lang: https://kivy.org/doc/stable/guide/lang.html
+Documentação oficial do Kivy: https://kivy.org/doc/stable/
+Documentação oficial do kivyMD: https://kivymd.readthedocs.io/en/latest/
+Site oficial do material design: https://material.io/components
+
+Sobre componentes:
+Componentes do MD: https://material.io/components
+Componentes no kivyMD: https://kivymd.readthedocs.io/en/latest/components/
+
+Temas:
+Temas no MD: https://material.io/design/color/the-color-system.html#color-usage-and-palettes
+Temas no kivyMD: https://kivymd.readthedocs.io/en/latest/themes/
+
+
+Comportamento:
+Comportamento no kivyMD: https://kivymd.readthedocs.io/en/latest/behaviors/
+
+Build (compilação):
+Build para android e iOS: https://buildozer.readthedocs.io/en/latest/
+Build para Windows e OSX: https://pyinstaller.readthedocs.io/en/stable/index.html
+
+
+Recursos extras:
+Acesso a componentes do android (Plyer): https://github.com/kivy/plyer
+Plugin para alertas bonitos (SweetAlert): https://github.com/kivymd-extensions/sweetalert
+Esqueledos de projetos do kivyMD(project-creator): https://github.com/Kulothungan16/KivyMD-Project-Creator
+Icones (Material icons): https://materialdesignicons.com/
+
+
+------------------
+
+
+#LiveDePython #kivyMD #Kivy
+Depois de um longo inverno de lives de python super complexas, bota bater um papo e tirar algumas dúvidas?
+
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-------------------
+
+Código:https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+
+-------------------
+
+
+
+#LiveDePython #Perguntas #Respostas
+Chegou a hora de conversar sobre corrotinas assíncronas e seu histórico no python, como foi seu encontro e implementação com o asyncio
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+
+-------------------
+
+Código:https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+#LiveDePython #Corrotinas #asyncio
+Hoje é o dia de conversamos sobre corrotinas em Python e sua grande história de quase 20 anos de implementação
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de...
+Telegram da live: https://t.me/livepython
+-------------------
+
+#LiveDePython #Corrotinas #yield
+Hoje é o dia de conversamos sobre corrotinas em Python e sua grande história de quase 20 anos de implementação
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+#LiveDePython #Corrotinas #yield
+Você tem dificuldades de entender o yield? E o yiled from? Funções geradoras? Corrotinas? Gerenciadores de contexto? 
+
+
+Como isso tundo funciona?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+
+picpay: @dunossauro
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de...
+Telegram da live: https://t.me/livepython
+-------------------
+
+#LiveDePython #Geradores #yield
+Bora aprender um pouco sobre dataclasses e sobre obsessão por primitivos?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de...
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+#LiveDePython #dataclasse #primitiveobisession
+Bora ver tudo que criamos juntos nesse ano de 2020?
+
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de...
+Telegram da live: https://t.me/livepython
+
+
+
+-------------------
+
+
+#LiveDePython #Retrospectiva
+Bora bater papo com uma galera massa e nos divertimos com as pessoas convidadas na live de natal?
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+Pessoas convidadas e seus respectivos Twitters:
+
+
+Camila Maia: @cmaiacd
+Geraldo Castro: @exageraldo_
+Juan Funez: @juanfunez
+Luana Dantas: @_LuandaDantas
+Marcus Pereira: @marcuxyz
+Renan Moura: @rvmoura96
+
+
+#Python #Natal
+Bora aprender um pouco de front com VueJS? Vamos contruir um front para uma API feita com flask.
+
+Nossa grande amigo Giordane oliveira vai nos presentear com seu conhecimento nessa live.
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+Contatos do Giordane:
+
+Twitter, Telegram e Instagram: @devgiordane
+Twitch do Giordane: https://www.twitch.tv/devgiordane
+
+#python #VueJS #Flask
+Bora aprender Starlette? Um framework web pensado desde do início na construção de aplicações assíncronas.
+
+Nossa grande amigo Marcus Pereira vai nos presentear com seu conhecimento nessa live.
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+Contatos do Marcus:
+
+Site pessoal: marcuspereira.xyz
+Twitter e Instagram: @marcuxyz
+
+#python #Starlette #Async
+Bora aprender Nameko? Um framework web pensado desde do início na construção de microsserviços?
+
+Nossa grande amigo Flávio Pimenta vai nos presentear com seu conhecimento nessa live.
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+Contatos do Flávio: pimenta.dev
+
+
+#python #Nameko #Microservices
+Bora aprender o básico de Django? Sair do zero total e entender o que esse framework tem de tão maravilhoso?
+
+Hoje o incrível Renan Moura vai nos ajudar a entender tudo sobre esse mundo
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+Contatos do Renan:
+
+
+Twitter: https://twitter.com/rvmoura96
+Github: https://github.com/rvmoura96/
+Linkdin: https://www.linkedin.com/in/rvmoura96/
+
+
+#python #web #Django
+Bora conversar sobre Kivy?? Kivy é uma biblioteca de cógido aberto em Python capaz de rodar seus aplicativos de Windows, Linux, mac e em plataformas mobile como Android e iOS.
+
+
+Kivy também conta com um ecosistema maravilhoso de bibliotecas externas, como o buildozer, para fazer aplicações mobile e o plyer para acessar recursos do sistema de maneira transparente.
+
+
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #kivy #Android
+Bora bater um papo sobre Appium? Appium é um webdriver para aplicativos moveis. A ideia é fazer bots e testes automatizados em aplicativos móveis
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #Appium #Android
+Vamos conversar sobre Beeware? O beeware é um framework que possibilita criar aplicativos com interface gráfica multiplataforma em python.
+
+
+Ele é compatível com android, iOS, linux, windows e mac
+
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #BeeWare #Android
+Vamos conversar sobre como criar templates de projetos? Criar diretórios, arquivos e coisas padronizadas?
+
+
+
+Cookiecutter é um projeto baseado em jinja2 que nos auxilia na criação de projetos e nos dá a possibilidade de criar padrão para todos os tipos de pacotes
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #cookiecutter
+Bora bater um papo? Responder perguntas sobre python?
+
+
+
+
+
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #FAQ
+Boara bater um papo sobre formulários com python e suas validações? Uma pitada de internacionalização seria massa também, não?
+
+
+
+-------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+-------------------
+
+
+#python #WTForms
+Vamos conversar um pouco sobre ORMs? Um pouco sobre SQLalchemy?
+
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+
+
+-------------------
+
+
+#python #database #sqlalchemy
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+Contatos do Geraldo:
+Telegram: https://telegram.me/exageraldo
+Twitter: https://twitter.com/exageraldo_
+Github: http://github.com/exageraldo
+
+
+
+
+
+#python #Flask #GeraldoC
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+------------------- 
+
+Código: https://github.com/dunossauro/live-de-python 
+
+Telegram do live: https://t.me/livepython 
+
+
+
+-------------------
+LINKS IMPORTANTES
+
+
+ScanAPI:
+
+GitHub Repo: https://github.com/scanapi/scanapi
+Site: https://scanapi.dev/
+Twitter: https://twitter.com/scanapi_
+
+Camila:
+GitHub: https://github.com/camilamaia
+Site: https://cmaiacd.com
+Twitter: https://twitter.com/cmaiacd
+
+
+ #conhecendo #scanpAPI
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#python #pendulum #datatime
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#python #functools #funcional
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#API #REST #TEST
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+------------------
+
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+
+
+#selenium #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#API #REST #TEST
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#selenium #python #pytest
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#livedepython #novidades #39
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+#conhecendo #xonsh
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+#livedepython #batepapo
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+Contatos do Pokemao: 
+
+Twitter: https://twitter.com/pokemaobr/
+Youtube: https://www.twitch.tv/pokemaobr
+
+----------------
+
+
+#conhecendo #PHP
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+Contatos da Carol:
+
+
+Twitter: https://twitter.com/_caaddss
+Twitch: https://www.twitch.tv/caaddss
+Youtube: https://www.youtube.com/devfriend
+
+-------------------
+
+
+#livedepython #dados #ciencia
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+Contatos da Ana:
+
+
+Twitter: @anaclpss
+Email: ana.clopessouza@gmail.com
+Github: @anacls
+
+
+----------------
+
+
+#conhecendo #Elixir
+Front end com python? Isso já passou pela sua cabeça? Brython é um ferramenta desenvolvida em javascript para que você possa programar em python no front end
+
+
+-------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+
+
+#FrontEnd #Brython #Python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+Contatos do Luciano:
+
+
+Twitch: lucianoratamero
+twitter: lucianoratamero
+Github: lucianoratamero
+
+
+
+ -------------------
+#Conhecendo #Gnome
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+Contatos da Harano:
+
+
+Telegram: @ayharano
+
+GitHub: @ayharano
+
+GitLab: @ayharano
+
+LinkedIn: @ayharano
+
+Email: email@ayharano.dev
+-------------------
+
+
+#liveDePython #PyPI
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+Contatos do Emerson:
+snowbg@gmail.com
+t.me/snowbg
+instagram.com/snowbg
+
+
+
+
+-------------------
+#Conhecendo #firmware #EmersonLara
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+Contatos da Mikaeri:
+
+Youtube: https://www.youtube.com/user/miohanars/
+Instagram: https://www.instagram.com/miohana/
+-------------------
+
+
+#liveDePython #DataScience
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+
+-------------------
+
+Contatos do Marcus:
+
+
+Spacedevs no Youtube: https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ
+Spacedevs no Twitter: https://twitter.com/Spacedevsd
+Spacedevs no iNSTAGRAM: https://twitter.com/Spacedevsd
+
+
+ ---------------------------------
+#JavaScritp #livedepython #Spacedevs
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+-------------------
+Contatos da Camila:
+Twitter: https://twitter.com/punkdodevops
+Youtube: https://youtube.com/c/punkdodevops
+Twitch: https://youtube.com/c/punkdodevops
+
+
+
+
+#python #devops #ansible
+Powered by Restream https://restream.io/
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/curso-p...
+Telegram do live: https://t.me/cursopythonselenium 
+
+-------------------
+
+Contatos do Jônatas
+email: contato@jonatasoliveora.me
+twitter: @devjonatas
+
+
+
+---------------------------------
+#tmux #livedepython #shell
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+
+
+-------------------
+Contatos da Natalia:
+
+Twitter: https://twitter.com/NatOps_
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+
+
+-------------------
+Contatos da Ingrid:
+
+https://about.me/fullsushidev
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+------------------
+
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+
+
+#selenium #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+-------------------
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/livepython
+
+-------------------
+Contatos do Juan: 
+
+
+
+Github: @jfunez
+Gitlab: @jfunez
+Twitter: @juanfunez
+Telegram: @juanfunez
+
+ -------------------
+
+ #airflow #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+
+
+
+-------------------
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+-------------------
+Contatos do Renne:
+Twitter: @rennerocha
+Telegram: @rennerocha
+
+-------------------
+LINKS citados
+
+palestra no caipyra: https://www.youtube.com/watch?v=t6UGwXlCLmc
+Live sobre scrapy: https://youtu.be/5LMG4OCoEn0
+
+
+
+
+ #selenium #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+
+
+-------------------
+
+
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+-------------------
+Contatos da Mariana:
+
+
+
+
+
+ #selenium #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+
+
+-------------------
+
+
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+-------------------
+Contatos da Mariana:
+
+
+
+
+
+ #selenium #livedepython #python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+
+
+-------------------
+
+
+Código: https://github.com/dunossauro/curso-python-selenium
+Telegram do live: https://t.me/cursopythonselenium 
+
+-------------------
+
+
+
+
+ #selenium #livedepython #python
+
+No primeiro vídeo da série conhecendo, vamos aprender CSS com o maravilhoso do Giordane.
+
+
+---------------------------------------------------------------------------------------------
+
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+
+
+---------------------------------------------------------------------------------------------
+
+Contatos do Giordane:
+
+Twitter: @devgiordane
+Instagram : @devgiordane
+Canal no Youtube: https://youtube.com/GiordaneOliveira
+Grupo do Giordane no Telegram: https://t.me/dev_giordane
+
+
+
+
+#CSS #conhecendo
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+
+-------------------
+#padroesdeprojeto #livedepython #python3
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Tyrone:
+
+Email: tyronedamasceno@gmail.com 
+@tyronedamasceno no telegram, github, instagram
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------------------------------
+
+Contatos do Lugão:
+
+@joaovoce no Twitter
+@jlugao no Telegram
+
+
+
+
+
+----------
+
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Renan:
+
+Email: rvmoura.96@gmail.com
+Twitter: @rvmoura96
+Telegram: @rvmoura96
+Github:@rvmoura96
+LinkedIn:@rvmoura96
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Renan:
+
+Email: rvmoura.96@gmail.com
+Twitter: @rvmoura96
+Telegram: @rvmoura96
+Github:@rvmoura96
+LinkedIn:@rvmoura96
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Kyle:
+
+twitter.com/kylefellipe
+instagram.com/kylefellipe
+repositórios:git(lab|hub).com/kylefellipe
+Youtube: youtube.com/user/kylefellipe
+GeoCast Brasil: youtube.com/geocastbrasil
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+Contatos do Bernardo
+
+Twitter: @bbfontes
+github: github.com/berinhard msm
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Luiz
+
+https://www.linkedin.com/in/luizouguilherme/
+https://twitter.com/luizouguilherme
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+
+-----------------------------------
+
+Contatos do Marcus
+
+Facebook: https://fb.me/statusok.team
+Twitter: https://twitter.com/statusok_team
+Github: https://github.com/orgs/Statusok-team
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Patrocinadores:
+
+PyJobs: https://www.pyjobs.com.br/?utm-source=live-de-python
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Contatos do Bruno
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Contatos do Bruno
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Contatos do Dukão
+
+@diegodukao em todas as redes.
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+----------
+
+Contatos do Dukão
+
+@diegodukao em todas as redes.
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+
+----------------------------------------------
+
+Contatos do Luciano:
+
+Twitter: @ramalhoorg
+GitHub: @ramalho
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+-----------------------------------------------------------
+Contatos do Mário
+
+Twitter: https://twitter.com/sergiomarioq
+Linkedin: https://twitter.com/sergiomarioq
+
+Contatos da Ana:
+Twitter: @4naDulceP
+Telegram: @anadulce
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+-----------------------------------------------------------
+Contatos do Guilherme
+
+Email: guilherme.ramos@outlook.com
+Linkedin: https://www.linkedin.com/in/guilhermeramosc
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+-----------------------------------------------------------
+Contatos do Henrique
+
+Twitter: @henriquebastos
+Youtube: https://www.youtube.com/user/henriquebastosnet
+WTTD: https://autonomize.se/produtos/welcome-to-the-django/em-breve/
+Decouple: https://github.com/henriquebastos/python-decouple
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------
+Contatos do Luiz
+
+twitter: @luiz_amf
+github: https://github.com/lamenezes/
+telegram: @lamenezes
+----------------------------------------------------------------
+https://github.com/kevin1024/vcrpy
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------
+Contatos do Régis
+
+Tutorial Django 2.2: https://www.youtube.com/watch?v=YuKdwIhJysU
+Twitter, Telegram, Github: @rg3915
+Portfólio: rg3915.github.io
+Repo da live: https://github.com/rg3915/live94-django
+Canal no YouTube: https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------
+Contatos do Régis
+
+Tutorial Django 2.2: https://www.youtube.com/watch?v=YuKdwIhJysU
+Twitter, Telegram, Github: @rg3915
+Portfólio: rg3915.github.io
+Repo da live: https://github.com/rg3915/live94-django
+Canal no YouTube: https://www.youtube.com/channel/UCSCeh6nJILegqsqsS1WizOQ
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------
+Contatos do Fabio
+
+https://about.me/fabio.souza
+twitter: https://about.me/fabio.souza
+instagram: https://about.me/fabio.souza
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------
+Contatos do Inácio
+
+e-mail: inaciogmedeiros@gmail.com
+telegram: @inaciomdrs
+facebook: https://www.facebook.com/inaciomdrs
+Medium: https://medium.com/@boyinacio
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+Contatos do Allythy
+
+Telegram: https://t.me/allythy
+
+GitHub: https://github.com/allythy
+
+Site: https://allythy.github.io/
+
+E-mail: allythy@grupyrn.org
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Contatos do Og:
+- Twitter: @OgMaciel
+- Linkedin: https://www.linkedin.com/in/ogmaciel/
+- Github: https://github.com/omaciel
+
+Links do Livro do Og:
+- Grumroad: https://gumroad.com/omaciel
+- Amazon: https://www.amazon.com/Software-Quality-Engineering-Tales-Trenches-ebook/dp/B07PN1GZMM/ref=sr_1_fkmrnull_1?keywords=og+maciel&qid=1554761612&s=gateway&sr=8-1-fkmrnull
+-----------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------------------------------
+
+Contatos da Letícia:
+
+Twitter: https://twitter.com/dii_lua
+Instagram: https://www.instagram.com/dii_lua/
+Github: https://github.com/diilua
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+
+-------------------------------------------------------------
+
+Convidados (TT):
+Judite - @juditecypreste
+Julia - @kastrupjulia
+Fabio - @fabioserrones
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------------------------------
+
+Contatos do Lugão:
+
+@joaovoce no Twitter
+@jlugao no Telegram
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+--------------------------------------------------------------------------------------------------
+
+Contatos Marcelo:
+email: marcelomoraesjr28@gmail.com
+ld: linkedin.com/in/marcelomoraesjr
+gh: github.com/marcelomoraes28
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython 
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython 
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Live de Python #63 - Análise de sentimento aplicado e sumarização de texto no futebol - Cássio Botaro
+-------------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+Apoia-se: https://apoia.se/livedepython
+picpay: @livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos entender o básico de orientação a objetos com Python? A ideia desse vídeos inicial é mostrar o esquema básico e as teorias por trás da orientação a objetos e como vamos fazer para adaptar isso para o mundo do python. Se você é iniciante e está procurando um bom material, esse é feito para você
+
+-----------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Aula aberta por engano do curso experimental de programação funcional com Python. Porém, atendendo a pedidos ela vai ficar disponível.
+
+====================================================
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Telegram do live: https://t.me/livepython
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Grupo no telegram do flask brasil:
+http://t.me/flaskbrasil
+
+Bora para Flask Conf?
+http://flask.python.org.br
+
+Se inscrevam no canal do Bruno (Curso de Python):
+http://YouTube.com/CursoDePython
+------------------------------------------------------------------------------------------
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+O canal é mantido por uma iniciativa de financiamento coletivo:
+https://apoia.se/livedepython
+
+Link do sorteio: https://goo.gl/forms/wiNGNZaXboZ5GxC12
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossaurolive-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossaurolive-de-python/wiki
+
+Código de desconto para livros na novatec: MENDESPY
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki/FAQ
+Código: https://github.com/z4r4tu5tr4/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequêntes: https://github.com/z4r4tu5tr4/live-de-python/wiki
+Código: https://github.com/z4r4tu5tr4/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequêntes: https://github.com/z4r4tu5tr4/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequêntes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequêntes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequêntes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Falamos de muitas coisas, mas até agora não falamos sobre manipulação de arquivos de texto, não é mesmo?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Falamos de muitas coisas, mas até agora não falamos sobre manipulação de arquivos de texto, não é mesmo?
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Bora todo mundo
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre os mega containers do collections?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre os mega containers do collections?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre os mega containers do collections?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre os mega containers do collections?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre os mega containers do collections?
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos falar um pouco sobre downloads de arquivos de manipulação de datas com python?
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Bora ver um pouco de Scrapy?
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Nessa live vamos fazer scraping em dados fora do padrão HTML, como XLSX, ODT, PDF, CSV etc ...
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Nesse vídeo vamos ver como sua raspagem de dados pode acontecer de maneira anônima. Vamos usar a rede tor com poxy para web scrapping. Isso pode te ajudar a ser mais eficiente em sites que podem te rastrear e acabar com sua anonimidade ou que tenham limitações de acesso. 
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Canal do Samuka (bora falar de python): https://www.youtube.com/user/samukasmks
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Ainda usando selenium para controlar o browser e navegar nas páginas, vamos usar o Beautifulsoup para raspar as páginas e encontrar os conteúdos que desejamos fazer web scraping de maneira mais simples.
+
+
+-------------------
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Selenium é uma ferramenta construída para testes de software, mas é muito legal usar ele para construir bots e também fazer web scraping. Essa é uma live introdutória ao selenium com um viés de web scraping, mas o conhecimento adquirido nessa live pode te ajudar com selenium webdriver em todos os contextos em que a automação de browsers usando python é possível.
+
+---------------------------
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Hoje vamos voltar a explorar os containers e ver mais algumas coisas escondidas que ninguém estava prevendo. SUAHUSAHSAUSA
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Hoje vamos explorar os tipos de containers nativos do Python. Listas, tuplas, conjuntos etc... Se você ainda tem dúvidas sobre as diferenças e quando usar cada um, essa é a sua live
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Na live de hoje nós vamos criar alguns scripts para mover, copiar, criar excluir e tudo que é possível fazer com arquivos e diretórios. Se Você ainda tem dúvidas sobre isso, hoje é o dia de sanar as mesmas.
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Um pouco mais sobre threading.Thread
+
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Um pouco sobre threading.Thread
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Hoje vamos ver um pouco sobre dunders
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Live de integração para construção de um projeto usando bottle, sqlalchemy + testes
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos voltar a falar sobre bancos de dados e vamos olhar como funciona o SQLAlchemy
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Voltando um pouco ao assunto das primeiras lives, agora vamos entender um pouco sobre testes de comportamento e geração de documentações vivas.
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Voltando um pouco ao assunto das primeiras lives, agora vamos entender um pouco sobre testes de comportamento e geração de documentações vivas.
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos mudar o foco um pouco nessa live e entender um pouco mais sobre web, bottle jinja e o que mais der tempo
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos mudar o foco um pouco nessa live e entender um pouco mais sobre integração com sqlite3
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos mudar o foco um pouco nessa live e entender um pouco mais sobre o comportamento das classes
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Vamos mudar o foco um pouco nessa live e entender um pouco mais sobre o comportamento das funções
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Como continuação da live anterior, vamos focar no debugger
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Como continuação da live anterior, vamos focar somente em unidades.
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Como continuação a semana anterior, vamos focar somente em unidades
+
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Código: https://github.com/dunossauro/live-de-python
+Telegram do live: https://t.me/livepython
+Perguntas frequentes: https://github.com/dunossauro/live-de-python/wiki
+Github: https://github.com/z4r4tu5tr4/live-de-python
+Telegram: https://t.me/livepython

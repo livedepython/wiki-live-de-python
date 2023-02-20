@@ -1,0 +1,29 @@
+Bora bater um papo sobre o que é e como fazer processamento de linguagens naturais usando Python e spaCy?
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+
+- Documentação do spaCy: https://spacy.io
+- Lista de modelos: https://spacy.io/usage/models
+- Containers: https://spacy.io/api/#architecture-containers
+- Para as marcações:
+   - Dependências: https://universaldependencies.org/u/dep/
+   - POS: https://universaldependencies.org/u/pos/
+
+Outros links:
+- Curso da Ines Montani (Fundadora da Explosion): https://course.spacy.io/pt

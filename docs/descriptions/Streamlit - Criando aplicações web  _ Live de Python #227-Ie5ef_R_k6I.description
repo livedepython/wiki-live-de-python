@@ -1,0 +1,30 @@
+Nessa live vamos conversar sobre como construir aplicações sem a necessidade de saber front ou backend. A ideia é simples, usar somente código python e criar suas aplicações.
+
+Nessa live faremos a aplicação do zero e vamos até o deploy. Enquanto isso aprenderemos os conceitos básicos da biblioteca.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus contatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados:
+
+Nosso app inicial: https://dunossauro-test-streamlit-app-ly9jox.streamlit.app/
+Site oficial: https://streamlit.io/
+Documentação: https://docs.streamlit.io
+API e Widgets: https://docs.streamlit.io/library/api-reference
+cheatsheet: https://docs.streamlit.io/library/cheatsheet
+Componentes externos: https://streamlit.io/components
+Ace: https://github.com/okld/streamlit-ace

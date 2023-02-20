@@ -1,0 +1,34 @@
+Na live de hoje vamos conversar sobre migrations, ou schema migrations usando python. Vamos entender os conceitos por trás dos designs evolutivos de bancos de dados e como aplicar isso com Alembic e SQLAlchemy.
+
+-------------------
+
+O canal é mantido por uma iniciativa de financiamento coletivo:
+
+
+Apoia-se: https://apoia.se/livedepython
+picpay: @dunossauro
+Chave pix: pix.dunossauro@gmail.com
+
+Meus cotatos e redes: https://linktr.ee/dunossauro
+-------------------
+
+Código e Slides: https://github.com/dunossauro/live-de-python
+Telegram da live: https://t.me/livepython
+
+----
+
+Links citados na Live:
+
+Referencial teórico:
+- [texto] DBs evolutivos: https://martinfowler.com/articles/evodb.html
+- [livro] Refatoração de bancos de dados: https://bitlybr.com/bzbOL
+
+Alembic:
+- Documentação do Alembic: https://alembic.sqlalchemy.org/
+- Operators: https://alembic.sqlalchemy.org/en/latest/ops.html
+- Blog do Mike Bayer: https://techspot.zzzeek.org/
+
+Lives de Python anteriores:
+- SQLAlchemy core #11: https://youtu.be/rBIksyGY4_E
+- SQLAlchemy ORM #139: https://youtu.be/UgaybOYMKS0
+- SQLAlchemy 1.4+ #166: https://youtu.be/nwJYbbJfJpg
